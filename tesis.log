@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.23)  30 SEP 2024 16:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.23)  30 SEP 2024 17:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1098,13 +1098,8 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `tesis.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-
-
-Package biblatex Warning: File 'tesis.bbl' is wrong format version - expected 3
-.2.
-
 Package biblatex Info: ... file 'tesis.bbl' found.
-(tesis.bbl)
+ (tesis.bbl)
 Package biblatex Info: Reference section=0 on input line 142.
 Package biblatex Info: Reference segment=0 on input line 142.
 Package hyperref Info: Link coloring ON on input line 142.
@@ -1149,7 +1144,7 @@ nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
 or `spanish'. on input line 142.
-<images_repo/esanlogomin.png, id=239, 100.6962pt x 100.2144pt>
+<images_repo/esanlogomin.png, id=235, 100.6962pt x 100.2144pt>
 File: images_repo/esanlogomin.png Graphic file (type png)
 <use images_repo/esanlogomin.png>
 Package pdftex.def Info: images_repo/esanlogomin.png  used on input line 148.
@@ -1245,10 +1240,14 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 
 
 ]
+
+LaTeX Warning: Citation 'pr_dehghani2018copper' on page 6 undefined on input li
+ne 26.
+
 LaTeX Info: Redefining \sptext on input line 49.
 LaTeX Info: Redefining \. on input line 49.
 LaTeX Info: Redefining \% on input line 49.
- [6])
+[6])
 \tf@toc=\write5
 \openout5 = `tesis.toc'.
 
@@ -1279,30 +1278,81 @@ LaTeX Info: Redefining \% on input line 1.
 
  (1/planteamiento.tex
 Cap\'{\i }tulo 1.
+
+LaTeX Warning: Citation 'heidari2023' on page 10 undefined on input line 4.
+
+
+LaTeX Warning: Citation 'rojas2023' on page 10 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'heidari2023' on page 10 undefined on input line 8.
+
 [10
 
 
 ]
+
+LaTeX Warning: Citation 'amesquita2023' on page 11 undefined on input line 10.
+
+
+LaTeX Warning: Citation 'chen2024' on page 11 undefined on input line 12.
+
+
+LaTeX Warning: Citation 'chen2024' on page 11 undefined on input line 14.
+
+
+LaTeX Warning: Citation 'amesquita2023' on page 11 undefined on input line 16.
+
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
- [11]
+[11]
 LaTeX Info: Redefining \. on input line 48.
 LaTeX Info: Redefining \% on input line 48.
  [12]
-LaTeX Info: Redefining \. on input line 78.
-LaTeX Info: Redefining \% on input line 78.
- [13]
-LaTeX Info: Redefining \. on input line 111.
-LaTeX Info: Redefining \% on input line 111.
- [14])
+
+LaTeX Warning: Citation 'heidari2023' on page 13 undefined on input line 73.
+
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+[13]
+
+LaTeX Warning: Citation 'rojas2023' on page 14 undefined on input line 76.
+
+
+LaTeX Warning: Citation 'heidari2023' on page 14 undefined on input line 80.
+
+LaTeX Info: Redefining \. on input line 81.
+LaTeX Info: Redefining \% on input line 81.
+[14]
+
+LaTeX Warning: Citation 'ji2024' on page 15 undefined on input line 82.
+
+
+LaTeX Warning: Citation 'rojas2023' on page 15 undefined on input line 84.
+
+LaTeX Info: Redefining \. on input line 93.
+LaTeX Info: Redefining \% on input line 93.
+[15]
+LaTeX Info: Redefining \. on input line 117.
+LaTeX Info: Redefining \% on input line 117.
+ [16])
 LaTeX Info: Redefining \. on input line 194.
 LaTeX Info: Redefining \% on input line 194.
- [15]
+ [17]
 \openout2 = `2/marco.aux'.
 
  (2/marco.tex
 Cap\'{\i }tulo 2.
 (2/1_antecedentes/antecedentes.tex
+
+LaTeX Warning: Citation 'pr_dehghani2018copper' on page 18 undefined on input l
+ine 4.
+
+
+Overfull \hbox (22.24165pt too wide) in paragraph at lines 4--4
+[]\OT1/ptm/b/n/14.4 Copper pri-ce es-ti-ma-tion using bat al-go-rithm ([]) 
+ []
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\citep' on input line 4.
@@ -1311,42 +1361,72 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 4.
 
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 5.
 
-(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
-File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-) [16
+LaTeX Warning: Citation 'pr_dehghani2018copper' on page 18 undefined on input l
+ine 5.
 
 
+LaTeX Warning: Citation 'pr_dehghani2018copper' on page 18 undefined on input l
+ine 5.
+
+[18
 
 
-])
-(2/2_teoria/base_teo.tex) (2/3_conceptos/marc_conceptual.tex))
+
+
+]) (2/2_teoria/base_teo.tex
+
+LaTeX Warning: Citation 'tec_royal2017machine' on page 19 undefined on input li
+ne 2.
+
+
+LaTeX Warning: Citation 'bk_gollapudi2016practical' on page 19 undefined on inp
+ut line 4.
+
+
+LaTeX Warning: Citation 'bk_goyal2018deep' on page 19 undefined on input line 7
+.
+
+
+LaTeX Warning: Citation 'bk_goyal2018deep' on page 19 undefined on input line 9
+.
+
+LaTeX Font Info:    Trying to load font information for OML+ptm on input line 9
+.
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlptm.fd
+File: omlptm.fd 
+)
+LaTeX Font Info:    Font shape `OML/ptm/b/n' in size <12> not available
+(Font)              Font shape `OML/cmm/b/it' tried instead on input line 9.
+
+
+LaTeX Warning: Citation '' on page 19 undefined on input line 9.
+
+) (2/3_conceptos/marc_conceptual.tex))
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
- [17]
+ [19]
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
- [18]
+ [20]
 \openout2 = `3/metodologia.aux'.
 
-
-(3/metodologia.tex
+ (3/metodologia.tex
 Cap\'{\i }tulo 3.
-[19
+[21
 
 
 
 
 ]
-<3/figures/largepotato.jpg, id=419, 491.8375pt x 291.0875pt>
+<3/figures/largepotato.jpg, id=409, 491.8375pt x 291.0875pt>
 File: 3/figures/largepotato.jpg Graphic file (type jpg)
 <use 3/figures/largepotato.jpg>
 Package pdftex.def Info: 3/figures/largepotato.jpg  used on input line 24.
 (pdftex.def)             Requested size: 362.37598pt x 214.47751pt.
 LaTeX Info: Redefining \. on input line 35.
 LaTeX Info: Redefining \% on input line 35.
- [20 <./3/figures/largepotato.jpg>]
+ [22 <./3/figures/largepotato.jpg>]
 LaTeX Font Info:    Trying to load font information for U+eus on input line 54.
 
 
@@ -1356,15 +1436,15 @@ File: ueus.fd 2013/01/14 v3.01 Euler Script
 LaTeX Info: Redefining \. on input line 58.
 LaTeX Info: Redefining \% on input line 58.
 
-[21])
+[23])
 LaTeX Info: Redefining \. on input line 196.
 LaTeX Info: Redefining \% on input line 196.
- [22]
+ [24]
 \openout2 = `4/desarrollo.aux'.
 
  (4/desarrollo.tex
 Cap\'{\i }tulo 4.
-[23
+[25
 
 
 
@@ -1372,12 +1452,12 @@ Cap\'{\i }tulo 4.
 ])
 LaTeX Info: Redefining \. on input line 197.
 LaTeX Info: Redefining \% on input line 197.
- [24]
+ [26]
 \openout2 = `5/resultados.aux'.
 
  (5/resultados.tex
 Cap\'{\i }tulo 5.
-) [25
+) [27
 
 
 
@@ -1385,17 +1465,17 @@ Cap\'{\i }tulo 5.
 ]
 LaTeX Info: Redefining \. on input line 198.
 LaTeX Info: Redefining \% on input line 198.
- [26]
+ [28]
 \openout2 = `6/conclusion.aux'.
 
  (6/conclusion.tex
 Cap\'{\i }tulo 6.
-) [27
+) [29
 
 
 
 
-] [28
+] [30
 
 
 
@@ -1452,13 +1532,13 @@ LaTeX Warning: Float too large for page by 196.69452pt on input line 29.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[29
+[31
 
 
 ]
 LaTeX Info: Redefining \. on input line 33.
 LaTeX Info: Redefining \% on input line 33.
- [30]
+ [32]
 Anexos B.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
@@ -1771,25 +1851,16 @@ Underfull \hbox (badness 7362) in paragraph at lines 71--73
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [31
+) [33
 
 ]
 LaTeX Info: Redefining \. on input line 208.
 LaTeX Info: Redefining \% on input line 208.
- [32]
-Overfull \hbox (41.27136pt too wide) in paragraph at lines 213--213
-[][]\OT1/ptm/m/n/12 IBM. (2019). IBM AI glos-sary. [][]$https : / / www . ibm .
- com / cloud / garage / architectures / cognitiveArchitecture /
- []
+ [34]
 
-[33
+LaTeX Warning: Empty bibliography on input line 213.
 
-
-
-]
-LaTeX Info: Redefining \. on input line 215.
-LaTeX Info: Redefining \% on input line 215.
- [34] (tesis.aux
+(tesis.aux
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
@@ -1805,7 +1876,7 @@ L3 programming layer <2024-01-04>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: EDBF2DCA60E38B55356B072D090CE81D;10012.
+(rerunfilecheck)             Checksum: 7033DE8890215BECA410FCAAD6B0571B;9902.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                tesis
@@ -1816,28 +1887,28 @@ Package logreq Info: Writing requests to 'tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29350 strings out of 474486
- 573400 string characters out of 5743755
+ 29198 strings out of 474486
+ 568195 string characters out of 5743755
  1953542 words of memory out of 5000000
- 51016 multiletter control sequences out of 15000+600000
- 609380 words of font info for 150 fonts, out of 8000000 for 9000
+ 50887 multiletter control sequences out of 15000+600000
+ 609632 words of font info for 150 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,32n,84p,1284b,3650s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,32n,84p,1383b,3497s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmex10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmmi10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmr10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/euler/eusm10.pfb><C:/Users/Admin/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb><C:/Users/Admin
-/AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Admin/
-AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Admin/A
-ppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Admin/A
-ppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Admin/A
-ppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tesis.pdf (35 pages, 322255 bytes).
+ublic/amsfonts/cm/cmmib10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Admin/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/euler/eusm10.pfb><C:/Users/Admin/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Admin/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Admin/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Admin/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Admin/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on tesis.pdf (35 pages, 304145 bytes).
 PDF statistics:
- 598 PDF objects out of 1000 (max. 8388607)
- 127 named destinations out of 1000 (max. 500000)
- 483 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 542 PDF objects out of 1000 (max. 8388607)
+ 104 named destinations out of 1000 (max. 500000)
+ 475 words of extra memory for PDF output out of 10000 (max. 10000000)
 

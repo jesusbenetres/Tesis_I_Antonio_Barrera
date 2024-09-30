@@ -13,48 +13,47 @@
 \contentsline {subsection}{\numberline {1.4.1}Teórica}{13}{subsection.1.4.1}%
 \contentsline {subsection}{\numberline {1.4.2}Práctica}{14}{subsection.1.4.2}%
 \contentsline {subsection}{\numberline {1.4.3}Metodológica}{14}{subsection.1.4.3}%
-\contentsline {section}{\numberline {1.5}Delimitación del Estudio}{14}{section.1.5}%
-\contentsline {subsection}{\numberline {1.5.1}Espacial}{14}{subsection.1.5.1}%
-\contentsline {subsection}{\numberline {1.5.2}Temporal}{14}{subsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.5.3}Conceptual}{14}{subsection.1.5.3}%
-\contentsline {section}{\numberline {1.6}Hipótesis}{14}{section.1.6}%
-\contentsline {subsection}{\numberline {1.6.1}Hipótesis General}{14}{subsection.1.6.1}%
-\contentsline {subsection}{\numberline {1.6.2}Hipótesis Específicas}{15}{subsection.1.6.2}%
-\contentsline {subsection}{\numberline {1.6.3}Matriz de Consistencia}{15}{subsection.1.6.3}%
-\contentsline {chapter}{\numberline {2}MARCO TEÓRICO}{16}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Antecedentes de la investigación}{16}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Copper price estimation using bat algorithm \citep *{pr_dehghani2018copper}}{16}{subsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.1.1}Planteamiento del Problema y objetivo }{16}{subsubsection.2.1.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.1.2}Técnicas empleadas por los autores}{16}{subsubsection.2.1.1.2}%
-\contentsline {subsubsection}{\numberline {2.1.1.3}Metodología empleada por los autores}{17}{subsubsection.2.1.1.3}%
-\contentsline {subsubsection}{\numberline {2.1.1.4}Resultados obtenidos}{17}{subsubsection.2.1.1.4}%
-\contentsline {section}{\numberline {2.2}Bases Teóricas}{17}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Machine Learning}{17}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Natural Language Processing (NLP)}{17}{subsection.2.2.2}%
-\contentsline {section}{\numberline {2.3}Marco Conceptual}{18}{section.2.3}%
-\contentsline {chapter}{\numberline {3}METODOLOGÍA DE LA INVESTIGACIÓN}{19}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Diseño de la investigación}{19}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Diseño no experimental}{19}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Tipo explicativo}{19}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Enfoque cuantitativo}{20}{subsection.3.1.3}%
-\contentsline {section}{\numberline {3.2}Población y muestra}{20}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Operacionalización de Variables}{20}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Instrumentos de medida}{21}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Técnicas de recolección de datos}{21}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Técnicas para el procesamiento y análisis de la información}{22}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Cronograma de actividades y presupuesto}{22}{section.3.7}%
-\contentsline {chapter}{\numberline {4}DESARROLLO DEL EXPERIMENTO}{23}{chapter.4}%
-\contentsline {section}{\numberline {4.1}X}{23}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Y}{23}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Z}{24}{section.4.3}%
-\contentsline {chapter}{\numberline {5}ANÁLISIS Y DISCUSIÓN DE RESULTADOS}{25}{chapter.5}%
-\contentsline {section}{\numberline {5.1}X}{25}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Y}{25}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Z}{26}{section.5.3}%
-\contentsline {chapter}{\numberline {6}CONCLUSIONES Y RECOMENDACIONES}{27}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Conclusiones}{27}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Recomendaciones}{27}{section.6.2}%
-\contentsline {chapter}{Anexos}{28}{section*.8}%
-\contentsline {chapter}{\numberline {A}Anexo I: Matriz de Consistencia}{29}{appendix.Alph1}%
-\contentsline {chapter}{\numberline {B}Anexo II: Resumen de Papers investigados}{31}{appendix.Alph2}%
-\contentsline {chapter}{BIBLIOGRAFÍA}{33}{appendix*.11}%
+\contentsline {section}{\numberline {1.5}Delimitación del Estudio}{15}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Espacial}{15}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Temporal}{16}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Conceptual}{16}{subsection.1.5.3}%
+\contentsline {section}{\numberline {1.6}Hipótesis}{16}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Hipótesis General}{16}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Hipótesis Específicas}{16}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}Matriz de Consistencia}{17}{subsection.1.6.3}%
+\contentsline {chapter}{\numberline {2}MARCO TEÓRICO}{18}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Antecedentes de la investigación}{18}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Copper price estimation using bat algorithm \citep *{pr_dehghani2018copper}}{18}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}Planteamiento del Problema y objetivo }{18}{subsubsection.2.1.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.2}Técnicas empleadas por los autores}{18}{subsubsection.2.1.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.1.3}Metodología empleada por los autores}{19}{subsubsection.2.1.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.1.4}Resultados obtenidos}{19}{subsubsection.2.1.1.4}%
+\contentsline {section}{\numberline {2.2}Bases Teóricas}{19}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Machine Learning}{19}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Natural Language Processing (NLP)}{19}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Marco Conceptual}{20}{section.2.3}%
+\contentsline {chapter}{\numberline {3}METODOLOGÍA DE LA INVESTIGACIÓN}{21}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Diseño de la investigación}{21}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Diseño no experimental}{21}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Tipo explicativo}{21}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Enfoque cuantitativo}{22}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Población y muestra}{22}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Operacionalización de Variables}{22}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Instrumentos de medida}{23}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Técnicas de recolección de datos}{23}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Técnicas para el procesamiento y análisis de la información}{24}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Cronograma de actividades y presupuesto}{24}{section.3.7}%
+\contentsline {chapter}{\numberline {4}DESARROLLO DEL EXPERIMENTO}{25}{chapter.4}%
+\contentsline {section}{\numberline {4.1}X}{25}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Y}{25}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Z}{26}{section.4.3}%
+\contentsline {chapter}{\numberline {5}ANÁLISIS Y DISCUSIÓN DE RESULTADOS}{27}{chapter.5}%
+\contentsline {section}{\numberline {5.1}X}{27}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Y}{27}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Z}{28}{section.5.3}%
+\contentsline {chapter}{\numberline {6}CONCLUSIONES Y RECOMENDACIONES}{29}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Conclusiones}{29}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Recomendaciones}{29}{section.6.2}%
+\contentsline {chapter}{Anexos}{30}{section*.8}%
+\contentsline {chapter}{\numberline {A}Anexo I: Matriz de Consistencia}{31}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {B}Anexo II: Resumen de Papers investigados}{33}{appendix.Alph2}%
