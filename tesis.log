@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.23)  30 SEP 2024 15:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.23)  30 SEP 2024 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1279,60 +1279,22 @@ LaTeX Info: Redefining \% on input line 1.
 
  (1/planteamiento.tex
 Cap\'{\i }tulo 1.
-<1/figures/world_refined_copper_usage.png, id=378, 752.8125pt x 484.05844pt>
-File: 1/figures/world_refined_copper_usage.png Graphic file (type png)
-<use 1/figures/world_refined_copper_usage.png>
-Package pdftex.def Info: 1/figures/world_refined_copper_usage.png  used on inpu
-t line 10.
-(pdftex.def)             Requested size: 362.37598pt x 233.01016pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<1/figures/estructura_exportaciones_peru.png, id=383, 635.37375pt x 444.15938pt
->
-File: 1/figures/estructura_exportaciones_peru.png Graphic file (type png)
-<use 1/figures/estructura_exportaciones_peru.png>
-Package pdftex.def Info: 1/figures/estructura_exportaciones_peru.png  used on i
-nput line 22.
-(pdftex.def)             Requested size: 362.37598pt x 253.32935pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<1/figures/copper_stocks_prices_usage.png, id=386, 873.2625pt x 597.73312pt>
-File: 1/figures/copper_stocks_prices_usage.png Graphic file (type png)
-<use 1/figures/copper_stocks_prices_usage.png>
-Package pdftex.def Info: 1/figures/copper_stocks_prices_usage.png  used on inpu
-t line 33.
-(pdftex.def)             Requested size: 362.37598pt x 248.03638pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<1/figures/precio_caidas_gustavo_lagos.png, id=390, 840.741pt x 320.397pt>
-File: 1/figures/precio_caidas_gustavo_lagos.png Graphic file (type png)
-<use 1/figures/precio_caidas_gustavo_lagos.png>
-Package pdftex.def Info: 1/figures/precio_caidas_gustavo_lagos.png  used on inp
-ut line 44.
-(pdftex.def)             Requested size: 362.37598pt x 138.10046pt.
 [10
 
 
 ]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Info: Redefining \. on input line 79.
-LaTeX Info: Redefining \% on input line 79.
-[11 <./1/figures/world_refined_copper_usage.png>]
-LaTeX Info: Redefining \. on input line 91.
-LaTeX Info: Redefining \% on input line 91.
- [12 <./1/figures/estructura_exportaciones_peru.png>]
-LaTeX Info: Redefining \. on input line 106.
-LaTeX Info: Redefining \% on input line 106.
- [13 <./1/figures/copper_stocks_prices_usage.png>]
-LaTeX Info: Redefining \. on input line 126.
-LaTeX Info: Redefining \% on input line 126.
-
-[14 <./1/figures/precio_caidas_gustavo_lagos.png>])
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+ [11]
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [12]
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+ [13]
+LaTeX Info: Redefining \. on input line 111.
+LaTeX Info: Redefining \% on input line 111.
+ [14])
 LaTeX Info: Redefining \. on input line 194.
 LaTeX Info: Redefining \% on input line 194.
  [15]
@@ -1377,7 +1339,7 @@ Cap\'{\i }tulo 3.
 
 
 ]
-<3/figures/largepotato.jpg, id=460, 491.8375pt x 291.0875pt>
+<3/figures/largepotato.jpg, id=419, 491.8375pt x 291.0875pt>
 File: 3/figures/largepotato.jpg Graphic file (type jpg)
 <use 3/figures/largepotato.jpg>
 Package pdftex.def Info: 3/figures/largepotato.jpg  used on input line 24.
@@ -1838,17 +1800,26 @@ LaTeX Info: Redefining \% on input line 12.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: F88736A594A37D5E5FF7CE189C8C20DE;10013.
+(rerunfilecheck)             Checksum: EDBF2DCA60E38B55356B072D090CE81D;10012.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                tesis
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'tesis.run.xml'.
 \openout1 = `tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29389 strings out of 474486
- 574877 string characters out of 5743755
- 1954542 words of memory out of 5000000
- 51051 multiletter control sequences out of 15000+600000
+ 29350 strings out of 474486
+ 573400 string characters out of 5743755
+ 1953542 words of memory out of 5000000
+ 51016 multiletter control sequences out of 15000+600000
  609380 words of font info for 150 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,32n,84p,1284b,3650s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1864,9 +1835,9 @@ AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Admin/A
 ppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Admin/A
 ppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Admin/A
 ppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tesis.pdf (35 pages, 1079250 bytes).
+Output written on tesis.pdf (35 pages, 322255 bytes).
 PDF statistics:
- 635 PDF objects out of 1000 (max. 8388607)
- 131 named destinations out of 1000 (max. 500000)
- 503 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 598 PDF objects out of 1000 (max. 8388607)
+ 127 named destinations out of 1000 (max. 500000)
+ 483 words of extra memory for PDF output out of 10000 (max. 10000000)
 

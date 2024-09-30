@@ -1,61 +1,23 @@
 \chapter{PLANTEAMIENTO DEL PROBLEMA}
 \section{Descripción de la Realidad Problemática}
 
-El cobre, cuyo símbolo es Cu, se caracteriza por ser un elemento metálico maleable, dúctil y también un excelente conductor de calor y electricidad. Este metal se encuentra en nuestro planeta de forma natural en distintas formas. Se puede hallar en diferentes depósitos de minerales y en estado puro o dicho de otra forma «nativo» \parencite{cu_internationalcopper2018}. Esto último, es lo que lo vuelve un mineral atractivo, además de, una vez convertido en un producto terminado por las industrias, este puede ser empleado en el sector automovilístico, sector eléctrico, productos electrónicos, tecnologías de comunicación, construcciones, maquinaria industrial  y otros artículos de la vida cotidiana. %\medskip
+En la actualidad, el uso de tecnologías avanzadas, como la inteligencia artificial (IA), ha permitido la creación de contenido multimedia falsificado conocido como deepfake. Este contenido incluye videos, imágenes y, más recientemente, audios. Los deepfakes de audio han adquirido una relevancia particular debido a su capacidad para imitar voces humanas con una precisión asombrosa, lo que ha desencadenado una serie de problemas relacionados con la seguridad y la confianza en las comunicaciones digitales (Heidari, 2023). Esta tecnología ha comenzado a ser utilizada para fraudes y suplantación de identidad, presentando un desafío significativo para la detección de audios manipulados, especialmente en español, donde las herramientas actuales de detección no están adecuadamente adaptadas para capturar las particularidades del idioma.
 
+En Perú, el fraude mediante deepfakes de audio ha mostrado un aumento considerable en los últimos años. Un informe de la Policía Nacional del Perú (PNP) revela que más de un millón de soles han sido robados mediante la clonación de voces utilizando IA. En estos fraudes, los delincuentes suelen imitar la voz de familiares o amigos para solicitar dinero en situaciones de emergencia falsas, lo que resulta en un engaño muy difícil de detectar por las víctimas (Rojas Berríos, 2023). Este incremento de fraudes plantea un problema general relacionado con la incapacidad de las herramientas actuales para detectar audios falsificados, lo que facilita la comisión de delitos en el ámbito digital.
 
+Uno de los problemas específicos más críticos es la falta de un dataset en español que contemple variaciones regionales y voces manipuladas para entrenar modelos de redes neuronales profundas. La mayoría de los avances en la detección de deepfakes de audio se han centrado en el inglés, lo que genera una brecha importante en la capacidad de los modelos para adaptarse a las características del habla en español, que presenta variaciones significativas en términos de patrones de voz, frecuencia fundamental y ritmo del habla (Heidari, 2023). Esta falta de datos específicos en español dificulta la construcción de modelos robustos que puedan detectar deepfakes con precisión en este idioma.
 
-\begin{figure}[h]
-	\begin{center}
-		\includegraphics[width=0.8\textwidth]{1/figures/world_refined_copper_usage.png}
-		\caption{Uso del cobre refinado mundial del año 1900 a 2017 (en miles de toneladas). Fuente: \cite{cu_internationalcopper2018}}
-		\label{1:fig}
-	\end{center}
-\end{figure}
+Otro problema específico está relacionado con las limitaciones técnicas de las herramientas actuales para analizar variables clave como el tono de voz, timbre de voz y formantes. Los audios falsificados mediante deepfakes logran imitar estas características acústicas de manera casi perfecta, lo que confunde tanto a los sistemas de detección como a las personas. En particular, los deepfakes en español plantean desafíos únicos debido a las diferencias fonéticas con otros idiomas, lo que complica aún más la detección efectiva de manipulaciones (Amesquita Cuya, 2023).
 
-A lo largo de los años, como se observa en la Figura \ref{1:fig}, el uso del cobre refinado (cobre de alta pureza con una concentración de 99.9\%) en el mundo ha tenido un incremento bastante significativo y ello ha conllevado a un aumento en la comercialización de dicho metal. Como consecuencia, este ha contribuido en gran medida para las economías de diversas naciones ya sean países maduros o en vías de desarrollo. El minado, procesamiento, reciclaje y transformación de este metal a varios productos ha creado trabajos y generado riqueza. Estas actividades contribuyen en construir y mantener la infraestructura de un país, y además crea oportunidades de comercio e inversión \parencite{cu_internationalcopper2018}.
+Un tercer problema específico se refiere al uso de deepfakes de audio en fraudes por suplantación de identidad en Perú, donde los delincuentes utilizan esta tecnología para hacer pasar sus voces por las de familiares o colegas en situaciones de emergencia o negociación. Estos fraudes, que afectan tanto a individuos como a empresas, se ven agravados por la dificultad de las técnicas actuales para analizar características como la prosodia, articulación, transiciones entre fonemas y ruidos de fondo. Estos factores son críticos para la identificación precisa de audios falsificados, ya que los deepfakes no siempre logran replicar con fidelidad estos aspectos del habla humana, pero los sistemas de detección existentes no están optimizados para capturarlos (Chen \& Magramo, 2024).
 
+A nivel global, se ha documentado un incremento en el uso de deepfakes para cometer fraudes, con pérdidas millonarias en varios países. En Hong Kong, por ejemplo, se reportó un caso en el que un trabajador fue engañado mediante una videollamada con deepfakes de varios miembros de la junta directiva de su empresa, lo que resultó en un fraude de 25 millones de dólares (Chen \& Magramo, 2024). Este tipo de casos destaca la urgencia de desarrollar soluciones tecnológicas más efectivas que permitan la detección de deepfakes de audio en español, donde las herramientas actuales siguen siendo insuficientes.
 
+En el contexto peruano, la proliferación de fraudes basados en deepfakes de audio no solo afecta a los individuos, sino también a figuras públicas. Un caso reciente involucró a la presidenta Dina Boluarte, cuya voz fue manipulada mediante IA para hacer parecer que promovía una inversión fraudulenta, lo que generó confusión entre el público y demostró el poder de esta tecnología para influir en la opinión pública y causar daño reputacional (Amesquita Cuya, 2023).
 
-\begin{figure}[h]
-	\begin{center}
-		\includegraphics[width=0.8\textwidth]{1/figures/estructura_exportaciones_peru.png}
-		\caption{Estructura del valor de las exportaciones peruanas en el año 2018. Fuente: \cite{cu_ministerioPeru_statsminas}}
-		\label{1:fig2}
-	\end{center}
-\end{figure}
-
-
-
-
-\begin{figure}[h]
-	\begin{center}
-		\includegraphics[width=0.8\textwidth]{1/figures/copper_stocks_prices_usage.png}
-		\caption{Precio, stocks y uso del cobre (cantidad en miles de toneladas y precio en centavos por libra). Fuente: \cite{cu_internationalcopper2018}}	
-		\label{1:fig3}
-	\end{center}
-\end{figure}
-
-Estos modelos usados para predecir precios se basan mayormente en estimaciones de la oferta y demanda futura, así como los inventarios de bolsa. Otros consideran la memoria histórica de estas variables, la información de costos futuros de proyectos mineros, o variables financieras. Sin embargo, lo que estos modelos no hacen, es predecir el momento de la caída o alza del precio debido a eventos que no dependen de ninguna de las variables antes mencionadas sino a hechos inesperados globales \citep{cu_lagos2017proyectar}. 
-
-
-\begin{figure}[h]
-	\begin{center}
-		\includegraphics[width=0.8\textwidth]{1/figures/precio_caidas_gustavo_lagos.png}
-		\caption{Precio, stocks y uso del cobre (cantidad en miles de toneladas y precio en centavos por libra). Fuente: \cite{cu_lagos2017proyectar}}
-		\label{1:fig4}
-	\end{center}
-\end{figure} 
-
-
-
+Por todo lo anterior, es evidente que la detección de deepfakes de audio en español requiere un enfoque más sofisticado. El desarrollo de modelos basados en redes neuronales profundas que puedan analizar variables acústicas clave, como el tono de voz, timbre de voz, patrones de voz, frecuencia fundamental, duración y ritmo del habla, formantes, nivel de energía del habla, ruidos de fondo, prosodia, articulación y transiciones entre fonemas, es esencial para mitigar el impacto de los fraudes por deepfakes en Perú. Estas variables juegan un papel fundamental en la autenticidad del habla y pueden proporcionar pistas valiosas para identificar audios manipulados. Sin embargo, la falta de modelos especializados en español y la escasez de datasets específicos siguen siendo los principales obstáculos para lograr una detección precisa y confiable.
 
 \section{Formulación del Problema}
-
-Para lefecto \parencite{ot_marti2018manual}. 
-
-
-Una vez elaborado el diagrama (véase Anexo 1), 
 
 \subsection{Problema General}
 \newcommand{\ProblemaGeneral}{
