@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.23)  29 SEP 2024 12:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.23)  30 SEP 2024 15:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1320,17 +1320,17 @@ ut line 44.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Info: Redefining \. on input line 87.
-LaTeX Info: Redefining \% on input line 87.
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
 [11 <./1/figures/world_refined_copper_usage.png>]
-LaTeX Info: Redefining \. on input line 118.
-LaTeX Info: Redefining \% on input line 118.
+LaTeX Info: Redefining \. on input line 91.
+LaTeX Info: Redefining \% on input line 91.
  [12 <./1/figures/estructura_exportaciones_peru.png>]
-LaTeX Info: Redefining \. on input line 137.
-LaTeX Info: Redefining \% on input line 137.
+LaTeX Info: Redefining \. on input line 106.
+LaTeX Info: Redefining \% on input line 106.
  [13 <./1/figures/copper_stocks_prices_usage.png>]
-LaTeX Info: Redefining \. on input line 169.
-LaTeX Info: Redefining \% on input line 169.
+LaTeX Info: Redefining \. on input line 126.
+LaTeX Info: Redefining \% on input line 126.
 
 [14 <./1/figures/precio_caidas_gustavo_lagos.png>])
 LaTeX Info: Redefining \. on input line 194.
@@ -1450,345 +1450,384 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 
-Overfull \hbox (11.42305pt too wide) in paragraph at lines 7--31
+Underfull \hbox (badness 1253) in paragraph at lines 15--16
+[]|\OT1/ptm/m/n/10.95 El uso de un mo-de-lo ba-sa-do
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 20--20
+\OT1/ptm/m/n/10.95 des neu-ro-na-les pro-fun-das que
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 20--21
+[]|\OT1/ptm/m/n/10.95 La crea-ci[]on de un da-ta-set en
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 20--21
+\OT1/ptm/m/n/10.95 es-pa[]nol que in-clu-ya va-ria-cio-
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 22--22
+\OT1/ptm/m/n/10.95 de-tec-tar las va-ria-cio-nes en el
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 24--25
+[]|\OT1/ptm/m/n/10.95 El mo-de-lo de re-des neu-ro-na-
+ []
+
+
+Overfull \hbox (11.42305pt too wide) in paragraph at lines 7--27
  [][] 
  []
+
+
+LaTeX Warning: Float too large for page by 196.69452pt on input line 29.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [29
 
 
 ]
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+ [30]
 Anexos B.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
-7.
+3.
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Overfull \hbox (1.37367pt too wide) in paragraph at lines 49--49
+Overfull \hbox (1.37367pt too wide) in paragraph at lines 45--45
 []|[]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
 []|\OT1/ptm/m/n/10 Copper pri-ce es-ti-ma-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
 []|\OT1/ptm/m/n/10 Dehghani
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 49--49
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 45--45
 []|\OT1/ptm/m/n/10 2018| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
 []|\OT1/ptm/m/n/10 United
  []
 
 
-Underfull \hbox (badness 3471) in paragraph at lines 51--51
+Underfull \hbox (badness 3471) in paragraph at lines 47--47
 []|\OT1/ptm/m/n/10 Alternative tech-ni-ques for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
 []|\OT1/ptm/m/n/10 Cortez, Say-
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 51--51
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 47--47
 []|\OT1/ptm/m/n/10 2018| 
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 51--52
+Underfull \hbox (badness 5592) in paragraph at lines 47--48
 \OT1/ptm/m/n/10 of Mi-ning Scien-ce
  []
 
 
-Overfull \hbox (1.37367pt too wide) in paragraph at lines 53--54
+Overfull \hbox (1.37367pt too wide) in paragraph at lines 49--50
 []|[]| 
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 55--55
+Underfull \hbox (badness 1596) in paragraph at lines 51--51
 []|\OT1/ptm/m/n/10 Trastour, Ge-
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 55--55
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 51--51
 []|\OT1/ptm/m/n/10 2016| 
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 55--56
+Underfull \hbox (badness 1648) in paragraph at lines 51--52
 []|\OT1/ptm/m/n/10 Standfort Uni-ver-sity
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
 []|\OT1/ptm/m/n/10 Stock Pri-ce Pre-dic-tion
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 57--57
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 53--53
 []|\OT1/ptm/m/n/10 2018| 
  []
 
 
-Underfull \hbox (badness 3460) in paragraph at lines 59--60
+Underfull \hbox (badness 3460) in paragraph at lines 55--56
 []|\OT1/ptm/m/n/10 Deep Lear-ning for Stock
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
 []|\OT1/ptm/m/n/10 Akita, R.,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
 \OT1/ptm/m/n/10 Yoshiha-ra,
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 60--60
+Underfull \hbox (badness 2538) in paragraph at lines 56--56
 \OT1/ptm/m/n/10 A., Matsu-ba-
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 60--60
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 56--56
 []|\OT1/ptm/m/n/10 2016| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
 []|\OT1/ptm/m/n/10 2016 IEEE/ACIS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
 \OT1/ptm/m/n/10 15th In-ter-na-tio-
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 60--62
+Underfull \hbox (badness 6461) in paragraph at lines 56--58
 \OT1/ptm/m/n/10 nal Con-fe-ren-ce on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
 \OT1/ptm/m/n/10 Com-pu-ter and In-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
 \OT1/ptm/m/n/10 for-ma-tion Scien-ce
  []
 
 
-Overfull \hbox (1.37367pt too wide) in paragraph at lines 63--63
+Overfull \hbox (1.37367pt too wide) in paragraph at lines 59--59
 []|[]| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 []|\OT1/ptm/m/n/10 Stock Pri-ces Pre-dic-tion
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 63--64
+Underfull \hbox (badness 3713) in paragraph at lines 59--60
 \OT1/ptm/m/n/10 per Ar-ti-cles with Ko-rean
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 63--64
+Underfull \hbox (badness 3068) in paragraph at lines 59--60
 \OT1/ptm/m/n/10 Na-tu-ral Lan-gua-ge Pro-ces-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
 []|\OT1/ptm/m/n/10 Yun, Sim,
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 64--64
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 60--60
 []|\OT1/ptm/m/n/10 2019| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
 []|\OT1/ptm/m/n/10 2019 In-ter-na-tio-nal
  []
 
 
-Underfull \hbox (badness 4391) in paragraph at lines 64--66
+Underfull \hbox (badness 4391) in paragraph at lines 60--62
 \OT1/ptm/m/n/10 Con-fe-ren-ce on Ar-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
 \OT1/ptm/m/n/10 ti-fi-cial In-te-lli-gen-ce
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 64--66
+Underfull \hbox (badness 4120) in paragraph at lines 60--62
 \OT1/ptm/m/n/10 in In-for-ma-tion and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
 \OT1/ptm/m/n/10 Com-mu-ni-ca-tion
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 67--68
+Underfull \hbox (badness 3068) in paragraph at lines 63--64
 []|\OT1/ptm/m/n/10 A Method of Op-ti-mi-zing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
 []|\OT1/ptm/m/n/10 Jingrui, Z.,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
 \OT1/ptm/m/n/10 Qin-glin, W.,
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 68--68
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 64--64
 []|\OT1/ptm/m/n/10 2017| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--70
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
 []|\OT1/ptm/m/n/10 2017 32nd Youth
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--70
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
 \OT1/ptm/m/n/10 Aca-de-mic An-nual
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 68--70
+Underfull \hbox (badness 2005) in paragraph at lines 64--66
 \OT1/ptm/m/n/10 Con-fe-ren-ce of Chi-
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 68--70
+Underfull \hbox (badness 1286) in paragraph at lines 64--66
 \OT1/ptm/m/n/10 ne-se As-so-cia-tion of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 []|\OT1/ptm/m/n/10 Qualitative Stock Mar-ket
  []
 
 
-Underfull \hbox (badness 7558) in paragraph at lines 71--72
+Underfull \hbox (badness 7558) in paragraph at lines 67--68
 \OT1/ptm/m/n/10 Pre-dic-ting with Com-mon
  []
 
 
-Underfull \hbox (badness 5345) in paragraph at lines 71--72
+Underfull \hbox (badness 5345) in paragraph at lines 67--68
 \OT1/ptm/m/n/10 Know-led-ge Ba-sed Na-tu-re
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 \OT1/ptm/m/n/10 Lan-gua-ge Pro-ces-sing: A
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
 []|\OT1/ptm/m/n/10 Rao, D.,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
 \OT1/ptm/m/n/10 Deng, F.,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
 \OT1/ptm/m/n/10 Jiang, Z.,
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 72--72
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 68--68
 []|\OT1/ptm/m/n/10 2015| 
  []
 
 
-Underfull \hbox (badness 6461) in paragraph at lines 72--74
+Underfull \hbox (badness 6461) in paragraph at lines 68--70
 \OT1/ptm/m/n/10 nal Con-fe-ren-ce on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
 \OT1/ptm/m/n/10 In-te-lli-gent Human-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
 \OT1/ptm/m/n/10 Machine Sys-tems
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 75--75
+Underfull \hbox (badness 1708) in paragraph at lines 71--71
 \OT1/ptm/m/n/10 for Do-cu-ment Re-pre-sen-ta-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
 []|\OT1/ptm/m/n/10 Zhao, R.,
  []
 
 
-Overfull \hbox (2.92818pt too wide) in paragraph at lines 75--75
+Overfull \hbox (2.92818pt too wide) in paragraph at lines 71--71
 []|\OT1/ptm/m/n/10 2018| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--77
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
 []|\OT1/ptm/m/n/10 IEEE Transac-tions
  []
 
 
-Underfull \hbox (badness 7362) in paragraph at lines 75--77
+Underfull \hbox (badness 7362) in paragraph at lines 71--73
 \OT1/ptm/m/n/10 on Fuzzy Sys-tems
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [30
+) [31
 
 ]
 LaTeX Info: Redefining \. on input line 208.
 LaTeX Info: Redefining \% on input line 208.
- [31]
+ [32]
 Overfull \hbox (41.27136pt too wide) in paragraph at lines 213--213
 [][]\OT1/ptm/m/n/12 IBM. (2019). IBM AI glos-sary. [][]$https : / / www . ibm .
  com / cloud / garage / architectures / cognitiveArchitecture /
  []
 
-[32
+[33
 
 
 
 ]
 LaTeX Info: Redefining \. on input line 215.
 LaTeX Info: Redefining \% on input line 215.
- [33] (tesis.aux
+ [34] (tesis.aux
 LaTeX Info: Redefining \sptext on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
@@ -1806,10 +1845,10 @@ Package logreq Info: Writing requests to 'tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29394 strings out of 474486
- 574906 string characters out of 5743755
- 1953542 words of memory out of 5000000
- 51057 multiletter control sequences out of 15000+600000
+ 29389 strings out of 474486
+ 574877 string characters out of 5743755
+ 1954542 words of memory out of 5000000
+ 51051 multiletter control sequences out of 15000+600000
  609380 words of font info for 150 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,32n,84p,1284b,3650s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1825,9 +1864,9 @@ AppData/Local/Programs/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Admin/A
 ppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Admin/A
 ppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Admin/A
 ppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tesis.pdf (34 pages, 1072524 bytes).
+Output written on tesis.pdf (35 pages, 1079250 bytes).
 PDF statistics:
- 631 PDF objects out of 1000 (max. 8388607)
- 130 named destinations out of 1000 (max. 500000)
+ 635 PDF objects out of 1000 (max. 8388607)
+ 131 named destinations out of 1000 (max. 500000)
  503 words of extra memory for PDF output out of 10000 (max. 10000000)
 
