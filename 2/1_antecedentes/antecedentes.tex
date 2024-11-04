@@ -1,26 +1,182 @@
-En esta sección se presentarán diversos artículos de investigación o tesis las cuales abordarán diversas técnicas y enfoques que se emplearon para afrontar problemas similares al de esta tesis. Asimismo, a continuación se presenta un cuadro resumen (véase Anexo \ref{A:table}) de lo que se presenta en esta sección.
+En esta sección se presentarán diversos artículos de investigación que abordarán diversas técnicas y enfoques que se emplearon para afrontar problemas similares al de esta tesis. Asimismo, a continuación se presenta un cuadro resumen (véase Anexo \ref{A:table}) de lo que se presenta en esta sección.
 
 
-\subsection{Copper price estimation using bat algorithm \citep*{pr_dehghani2018copper}}
+\subsection{Acoustic Features Analysis for Explainable Machine Learning-Based Audio Spoofing Detection \citep*{pr_dehghani2018copper}}
 \citeauthor{pr_dehghani2018copper} realizaron un artículo de investigación el cual fue publicado en la revista «Resources Policy» en el año 2018. Este fue titulado \citetitle{pr_dehghani2018copper} la cual traducida al español significa «Estimación del precio del cobre utilizando el algoritmo bat».
 
 \subsubsection{Planteamiento del Problema y objetivo }
-hhhhj
+La creciente sofisticación de tecnologías de generación y manipulación de voz sintética plantea serios problemas para la autenticidad en sistemas de verificación de identidad por voz. Este problema es particularmente relevante en la prevención de fraudes y en la autenticidad de registros de voz, ya que las técnicas de falsificación de audio (deepfakes) han alcanzado niveles de realismo que engañan tanto a los seres humanos como a los sistemas automáticos. El objetivo de este estudio es desarrollar un sistema de detección de deepfake de audio mediante un enfoque de aprendizaje automático (ML) que no dependa de representaciones espectrales comunes, sino de un conjunto diverso de características acústicas diseñadas a mano. Este método busca mejorar la transparencia y precisión del proceso de detección, proporcionando explicaciones claras de las decisiones del modelo.
 
 \subsubsection{Técnicas empleadas por los autores}
-Los autores plantearon emplear una combinación entre la función de series de tiempo y el aljhkk. 
+En lugar de emplear redes neuronales profundas y representaciones basadas en espectrogramas, el estudio utiliza características acústicas diseñadas manualmente, tales como características espectrales, temporales y de frecuencia (e.g., coeficientes MFCC, cromaticidad y energía). Además, se aplican técnicas de Inteligencia Artificial Explicable (XAI) para interpretar los resultados, específicamente la técnica SHapley Additive exPlanations (SHAP), que ayuda a clarificar cuáles características son cruciales en la detección de deepfakes de audio. 
 
 \subsubsection{Metodología empleada por los autores}
-gfhhhh
-%%%Ecuacion
-\begin{equation}  
-\label{eq:RMSE}
-RMSE = \sqrt{\frac{\sum_{i=1}^{N}{\Big(O_i -T_i\Big)^2}}{N}}
-\end{equation}
+Para evitar sesgos de reconocimiento biométrico, los autores implementaron un protocolo de prueba independiente del sujeto, asegurando que el modelo no se entrenara en los mismos individuos que se utilizarían para la prueba. La metodología incluyó experimentos extensivos de evaluación en tres conjuntos de datos y el uso de SHAP para interpretar las decisiones del modelo, mostrando qué características acústicas tenían mayor peso en la detección.
 
-gfghf tal forma mejorar aún más la precisión de la predicción del precio del cobre.
+\subsubsection{Base de datos}
+Se utilizaron tres bases de datos de audio deepfake: ASVSpoof2019, FakeAVCelebV2 y un conjunto de datos In-The-Wild. ASVSpoof2019 incluye grabaciones de audio auténticas y falsificadas con ataques de texto-a-voz (TTS), conversión de voz (VC) y regrabación de audio. FakeAVCelebV2 es un conjunto multimodal de video y audio con variedad en género y etnicidad. In-The-Wild se compone de grabaciones con condiciones acústicas variadas para evaluar la generalización del modelo.
 
 \subsubsection{Resultados obtenidos}
-Las funciones de serie de tiempo más importantes se usaron para estimar los cambios en el precio del cobre. Entre ellos, la serie BMMR con una media de RMSE de 0.449 presentó la mejor estimación. El algoritmo Bat  se usó para modificar la función de tiempo BMMR debido a su alta capacidad para estimar los cambios en el precio del metal. Se obtuvo un RMSE de 0.132 de la ecuación modificada con BA. Los resultados obtenidos tienen una precisión mucho mayor y, a diferencia del BMMR, están más cerca de la realidad.
+El modelo alcanzó una precisión de 89\% en ASVSpoof2019, 94.5\% en FakeAVCelebV2 y 94.67\% en In-The-Wild, mostrando un rendimiento robusto y una alta capacidad de generalización comparado con métodos de última generación. Los resultados de SHAP confirmaron que las características acústicas eran esenciales para la detección, demostrando que un enfoque de características hechas a mano puede ser efectivo en comparación con métodos basados en aprendizaje profundo, además de proporcionar transparencia en el proceso de toma de decisiones.
 
- 
+\subsection{Beyond the Illusion: Ensemble Learning for Effective Voice Deepfake Detection \citep*{pr_dehghani2018copper}}
+\citeauthor{pr_dehghani2018copper} realizaron un artículo de investigación el cual fue publicado en la revista «Resources Policy» en el año 2018. Este fue titulado \citetitle{pr_dehghani2018copper} la cual traducida al español significa «Estimación del precio del cobre utilizando el algoritmo bat».
+
+\subsubsection{Planteamiento del Problema y objetivo }
+La proliferación de deepfakes de voz ha creado una necesidad urgente de métodos de detección precisos, ya que estos falsos audios pueden ser utilizados en actividades delictivas como suplantación de identidad y fraudes financieros. Este estudio plantea como objetivo desarrollar un modelo de aprendizaje en ensamblaje (ensemble learning) que combina múltiples redes neuronales para mejorar la precisión y robustez en la detección de deepfakes de voz, superando los modelos individuales al integrar sus ventajas.
+
+\subsubsection{Técnicas empleadas por los autores}
+El enfoque de ensamblaje incluye cuatro arquitecturas de redes neuronales: red neuronal recurrente (RNN), red neuronal convolucional 1D (CNN 1D), memoria a largo plazo (LSTM) y memoria a largo plazo convolucional (ConvLSTM). Para la extracción de características, se emplean los coeficientes MFCC, cromaticidad y tasa de cruce por cero, que son combinados en vectores de características y normalizados para mejorar la consistencia y precisión. 
+
+\subsubsection{Metodología empleada por los autores}
+El flujo de preprocesamiento incluye la extracción de características, estandarización dimensional y normalización de datos. Los modelos individuales son entrenados en el conjunto de datos, y luego sus resultados se fusionan mediante una técnica de soft voting en el modelo de ensamblaje para obtener la clasificación final.
+
+\subsubsection{Base de datos}
+La investigación se lleva a cabo en el conjunto de datos Fake-or-Real, que se divide en cuatro sub-conjuntos ('for-original', 'for-norm', 'for-2sec', y 'for-rerec') basados en la duración del audio y la tasa de bits. El modelo también fue probado en el conjunto de datos ASVSpoof en sus iteraciones 2019 y 2021.
+
+\subsubsection{Resultados obtenidos}
+El modelo ECN-MF propuesto alcanzó una precisión de 99.5\% en el sub-conjunto original del dataset Fake-or-Real, 98\% en el sub-conjunto combinado y hasta un 99.6\% con redes CNN individuales en otros sub-conjuntos. Este enfoque de ensamblaje demostró que la combinación de múltiples modelos mejora significativamente la precisión y resistencia de la detección de deepfakes de voz, superando los resultados obtenidos con modelos individuales.
+
+\subsection{Comprehensive Multiparametric Analysis of Human Deepfake Speech Recognition \citep*{pr_dehghani2018copper}}
+\citeauthor{pr_dehghani2018copper} realizaron un artículo de investigación el cual fue publicado en la revista «Resources Policy» en el año 2018. Este fue titulado \citetitle{pr_dehghani2018copper} la cual traducida al español significa «Estimación del precio del cobre utilizando el algoritmo bat».
+
+\subsubsection{Planteamiento del Problema y objetivo }
+El rápido avance en deepfakes de audio representa una amenaza creciente para la seguridad y autenticidad en comunicaciones críticas. Este estudio evalúa la capacidad humana para detectar deepfakes de audio en condiciones realistas, sin advertencia previa, abordando una brecha en la literatura donde los participantes generalmente están conscientes de que serán expuestos a deepfakes. El objetivo principal es entender cómo la información previa y la calidad del deepfake afectan la detección.
+
+\subsubsection{Técnicas empleadas por los autores}
+Se implementa una métrica de calidad específica para deepfake de audio, que categoriza los audios en función de su fidelidad. Los experimentos se estructuran en dos fases: (1) sin aviso previo de exposición a deepfakes y (2) con variaciones en la calidad del audio.
+
+\subsubsection{Metodología empleada por los autores}
+El experimento se dividió en dos partes: en la primera, los participantes jugaron el juego "Dos Verdades, Una Mentira" usando audios de países, de los cuales uno era un deepfake no anunciado. En la segunda, se evaluó la capacidad de los participantes para identificar deepfakes al variar la calidad del audio, utilizando una métrica diseñada para medir la fidelidad de estos audios.
+
+\subsubsection{Base de datos}
+Para los experimentos, se generaron audios específicos en idiomas checo y eslovaco, asegurando la adaptación de los modelos de síntesis a estos idiomas para reflejar situaciones reales de engaño auditivo en entornos diversos.
+
+\subsubsection{Resultados obtenidos}
+La detección sin aviso previo tuvo una efectividad baja, con una precisión que varió del 67\% al 94\% según la calidad del audio. La calidad del audio deepfake influenció significativamente la capacidad de detección, y los resultados sugieren que audios deepfake de alta calidad pueden llegar a ser indetectables para el oído humano, resaltando la necesidad de sistemas automatizados para apoyar la detección humana.
+
+\subsection{Deepfake Audio Detection Using Spectrogram-based Feature and Ensemble of Deep Learning Models \citep*{pr_dehghani2018copper}}
+\citeauthor{pr_dehghani2018copper} realizaron un artículo de investigación el cual fue publicado en la revista «Resources Policy» en el año 2018. Este fue titulado \citetitle{pr_dehghani2018copper} la cual traducida al español significa «Estimación del precio del cobre utilizando el algoritmo bat».
+
+\subsubsection{Planteamiento del Problema y objetivo }
+El estudio explora cómo mejorar la detección de deepfakes en aplicaciones basadas en audio, como asistentes virtuales y sistemas de verificación de voz, mediante modelos de aprendizaje profundo que trabajen con transformaciones de espectrogramas. Su objetivo es mejorar la detección de deepfakes en aplicaciones de voz en tiempo real, donde la precisión y velocidad de detección son cruciales.
+
+\subsubsection{Técnicas empleadas por los autores}
+El enfoque utiliza una combinación de modelos basados en espectrogramas, como CNN, RNN y C-RNN, así como embeddings de modelos preentrenados (Whisper, Speechbrain). Los espectrogramas se transforman mediante tres métodos diferentes: Transformada de Fourier de Tiempo Corto (STFT), Transformada-Q Constante (CQT) y Transformada Wavelet (WT), lo que permite capturar diferentes variaciones en el contenido frecuencial de los audios.
+
+\subsubsection{Metodología empleada por los autores}
+Los audios se segmentaron en intervalos de dos segundos, generando espectrogramas de cada segmento. Los embeddings obtenidos de los modelos preentrenados se clasificaron con una MLP, y se integraron en un modelo de ensamblaje para lograr el mejor rendimiento.
+
+\subsubsection{Base de datos}
+Se utilizó el conjunto de datos ASVSpoof2019 para evaluar la precisión de la detección, logrando un Equal Error Rate (EER) de 0.03, lo cual posiciona al modelo como altamente competitivo dentro de los sistemas top del desafío ASVspoof.
+
+\subsubsection{Resultados obtenidos}
+El sistema logró una precisión competitiva, mostrando el potencial de los enfoques basados en espectrogramas para captar inconsistencias en audios falsos. Los resultados resaltan que el enfoque de ensamblaje con modelos profundos es efectivo en la detección de deepfakes de audio.
+
+\subsection{Deepfake Audio Detection Using Spectrogram-based Feature and Ensemble of Deep Learning Models \citep*{pr_dehghani2018copper}}
+\citeauthor{pr_dehghani2018copper} realizaron un artículo de investigación el cual fue publicado en la revista «Resources Policy» en el año 2018. Este fue titulado \citetitle{pr_dehghani2018copper} la cual traducida al español significa «Estimación del precio del cobre utilizando el algoritmo bat».
+
+\subsubsection{Planteamiento del Problema y objetivo }
+Con el desarrollo de modelos generativos de alta calidad para la síntesis de sonidos ambientales, surge la necesidad de métodos de detección para audios ambientales falsificados (deepfake). Este estudio busca abordar la falta de investigación en esta área, proponiendo un sistema para distinguir entre sonidos ambientales grabados y generados.
+
+\subsubsection{Técnicas empleadas por los autores}
+El modelo utiliza embeddings generados con el sistema CLAP (Contrastive Language-Audio Pretraining), entrenado específicamente para capturar similitudes semánticas y acústicas en audios. El sistema implementa una red MLP para clasificar los sonidos como reales o falsos.
+
+\subsubsection{Metodología empleada por los autores}
+El audio se procesa en segmentos de cuatro segundos, generando embeddings de VGG, CLAP y PANN para identificar patrones específicos en audios ambientales falsificados.
+
+\subsubsection{Base de datos}
+La base de datos proviene del desafío DCASE 2023, con más de 6 horas de audio real y 28 horas de audio generado mediante síntesis de sonido Foley.
+
+\subsubsection{Resultados obtenidos}
+La arquitectura propuesta obtuvo una precisión del 98\%, demostrando que los embeddings específicos para audio ambiental mejoran la detección de deepfakes, y superan los modelos estándar en la clasificación de sonidos ambientales falsos.
+
+\subsection{Detection of Deepfake Media Using a Hybrid CNN-RNN Model and Particle Swarm Optimization (PSO) Algorithm \citep*{pr_dehghani2018copper}}
+\citeauthor{pr_dehghani2018copper} realizaron un artículo de investigación el cual fue publicado en la revista «Resources Policy» en el año 2018. Este fue titulado \citetitle{pr_dehghani2018copper} la cual traducida al español significa «Estimación del precio del cobre utilizando el algoritmo bat».
+
+\subsubsection{Planteamiento del Problema y objetivo }
+Con la creciente sofisticación de los deepfakes, especialmente en contenido multimedia como video y audio, existe una necesidad crítica de métodos efectivos de detección para prevenir fraudes y preservar la integridad de la información. Este estudio propone una estrategia de detección que combina redes neuronales convolucionales (CNN) y redes neuronales recurrentes (RNN) junto con el algoritmo de optimización de enjambre de partículas (PSO), con el objetivo de mejorar la precisión de los modelos de detección de deepfakes (Al-Adwan et al., 2024).
+
+\subsubsection{Técnicas empleadas por los autores}
+La técnica principal incluye una combinación híbrida de CNN y RNN para extraer características tanto espaciales como temporales, mejorada con PSO para optimizar los parámetros del modelo y mejorar la precisión en la clasificación de deepfakes.
+
+\subsubsection{Metodología empleada por los autores}
+La metodología involucra el uso de CNN para capturar características espaciales en el contenido visual de los videos, mientras que la RNN analiza la secuencia temporal de los cuadros. PSO se emplea para ajustar los hiperparámetros de ambos modelos, mejorando así la capacidad del modelo para diferenciar entre videos genuinos y falsificados.
+
+\subsubsection{Base de datos}
+Se usaron los conjuntos de datos Celeb-DF y Deepfake Detection Challenge (DFDC), ambos ampliamente utilizados en la investigación de detección de deepfakes y que contienen miles de clips de video manipulados y no manipulados.
+
+\subsubsection{Resultados obtenidos}
+El modelo alcanzó una precisión promedio del 97.26\% en Celeb-DF y del 94.2\% en DFDC, superando a otros métodos de vanguardia en la precisión y robustez de detección (Al-Adwan et al., 2024).
+
+\subsection{Efficient Deepfake Audio Detection Using Spectro-Temporal Analysis and Deep Learning \citep*{pr_dehghani2018copper}}
+\citeauthor{pr_dehghani2018copper} realizaron un artículo de investigación el cual fue publicado en la revista «Resources Policy» en el año 2018. Este fue titulado \citetitle{pr_dehghani2018copper} la cual traducida al español significa «Estimación del precio del cobre utilizando el algoritmo bat».
+
+\subsubsection{Planteamiento del Problema y objetivo }
+Debido al rápido desarrollo de tecnologías de deepfake en el ámbito de audio, existe un riesgo creciente para la seguridad digital y la autenticidad de la información auditiva. Este estudio busca mejorar la detección de deepfakes de audio utilizando un enfoque de análisis espectro-temporal y modelos de aprendizaje profundo (Sunkari \& Srinagesh, 2024).
+
+\subsubsection{Técnicas empleadas por los autores}
+La investigación emplea redes neuronales convolucionales (CNN) para la extracción de características espectrales y redes neuronales recurrentes (RNN) o de memoria a largo plazo (LSTM) para capturar las dinámicas temporales en las señales de audio.
+
+\subsubsection{Metodología empleada por los autores}
+Se usó un preprocesamiento detallado que incluye la remoción de silencios y la normalización de audio para mejorar la calidad de entrada. La metodología de análisis espectro-temporal convierte las señales de audio en representaciones de espectrograma, permitiendo al modelo identificar patrones únicos en audios manipulados.
+
+\subsubsection{Base de datos}
+El modelo fue entrenado y evaluado en el conjunto de datos ADD2022, el cual incluye una variedad de audios reales y manipulados en diversas condiciones y escenarios de grabación.
+
+\subsubsection{Resultados obtenidos}
+El modelo mostró una alta capacidad de detección con métricas de precisión, F1 y EER mejoradas, destacándose como una herramienta efectiva en la detección de deepfakes de audio (Sunkari \& Srinagesh, 2024).
+
+\subsection{Exploring Green AI for Audio Deepfake Detection \citep*{pr_dehghani2018copper}}
+\citeauthor{pr_dehghani2018copper} realizaron un artículo de investigación el cual fue publicado en la revista «Resources Policy» en el año 2018. Este fue titulado \citetitle{pr_dehghani2018copper} la cual traducida al español significa «Estimación del precio del cobre utilizando el algoritmo bat».
+
+\subsubsection{Planteamiento del Problema y objetivo }
+Los sistemas de detección de deepfake en audio actuales, aunque efectivos, presentan un elevado costo ambiental debido al consumo de energía que requieren para entrenarse y operar. Este estudio introduce un enfoque de "Green AI" que utiliza algoritmos de aprendizaje automático tradicionales y modelos de autoaprendizaje supervisado (SSL) para reducir la huella de carbono asociada a la detección de deepfakes (Saha et al., 2024).
+
+\subsubsection{Técnicas empleadas por los autores}
+Se utilizaron modelos de autoaprendizaje supervisado preentrenados y métodos clásicos de clasificación como regresión logística y redes neuronales poco profundas, minimizando así la necesidad de recursos computacionales intensivos.
+
+\subsubsection{Metodología empleada por los autores}
+El modelo extrae representaciones de audio a partir de un modelo SSL preentrenado (wav2vec 2.0) y las utiliza en algoritmos de clasificación clásicos sin afinación adicional, optimizando la eficiencia energética y reduciendo significativamente el número de parámetros del modelo.
+
+\subsubsection{Base de datos}
+El conjunto de datos ASVspoof 2019 LA fue empleado para evaluar el rendimiento de detección y eficiencia energética de la metodología propuesta.
+
+\subsubsection{Resultados obtenidos}
+El enfoque alcanzó un EER del 0.90\% utilizando menos de 1,000 parámetros entrenables, logrando resultados competitivos con un impacto ambiental reducido en comparación con enfoques tradicionales (Saha et al., 2024)
+
+\subsection{FakeSound: Deepfake General Audio Detection \citep*{pr_dehghani2018copper}}
+\citeauthor{pr_dehghani2018copper} realizaron un artículo de investigación el cual fue publicado en la revista «Resources Policy» en el año 2018. Este fue titulado \citetitle{pr_dehghani2018copper} la cual traducida al español significa «Estimación del precio del cobre utilizando el algoritmo bat».
+
+\subsubsection{Planteamiento del Problema y objetivo }
+La detección de deepfakes en audio general, que incluye sonidos ambientales y otros tipos de audio no lingüístico, ha recibido poca atención. Este estudio propone una metodología para detectar audio general manipulado y localizar las regiones falsificadas dentro del mismo, lo cual es crucial para combatir el uso malicioso de esta tecnología en la falsificación de evidencia o noticias falsas (Xie et al., 2024).
+
+\subsubsection{Técnicas empleadas por los autores}
+El estudio propone un modelo de detección que emplea un modelo de audio preentrenado como sistema de referencia, acompañado de redes profundas para clasificar y localizar las regiones falsificadas en el audio.
+
+\subsubsection{Metodología empleada por los autores}
+Se usó una tubería de manipulación automatizada que genera segmentos falsos mediante enmascaramiento y regeneración, los cuales luego se concatenan con el audio original. Esta técnica de inpainting permite crear deepfakes realistas que combinan audio genuino y manipulado.
+
+\subsubsection{Base de datos}
+El conjunto de datos FakeSound, que incluye audios manipulados de distintos tipos y duraciones, se usó para evaluar la eficacia del modelo, proporcionando un benchmark innovador para la detección de deepfakes de audio general.
+
+\subsubsection{Resultados obtenidos}
+El modelo propuesto superó el desempeño de los sistemas de vanguardia en detección de deepfakes de audio general, mostrando un rendimiento superior incluso al de evaluadores humanos (Xie et al., 2024).
+
+\subsection{Targeted Augmented Data for Audio Deepfake Detection \citep*{pr_dehghani2018copper}}
+\citeauthor{pr_dehghani2018copper} realizaron un artículo de investigación el cual fue publicado en la revista «Resources Policy» en el año 2018. Este fue titulado \citetitle{pr_dehghani2018copper} la cual traducida al español significa «Estimación del precio del cobre utilizando el algoritmo bat».
+
+\subsubsection{Planteamiento del Problema y objetivo }
+Las detecciones de deepfake en audio tienden a sobreajustarse a manipulaciones vistas en el entrenamiento, limitando la generalización a deepfakes no observados. Este estudio presenta una técnica de aumento de datos específica que genera pseudo-deepfakes para mejorar la robustez de los detectores de audio deepfake (Astrid et al., 2024).
+
+\subsubsection{Técnicas empleadas por los autores}
+La técnica principal se basa en un aumento de datos inspirado en ataques adversariales, donde los datos de audio reales se modifican para crear pseudo-falsificaciones que obliguen al modelo a mejorar su capacidad de generalización.
+
+\subsubsection{Metodología empleada por los autores}
+Se generaron pseudo-deepfakes cerca del límite de decisión del modelo, optimizando el entrenamiento al incluir ejemplos ambiguos de audio que dificultan la clasificación. La estrategia se implementó en dos arquitecturas avanzadas de detección de audio deepfake, AASIST y RawNet2.
+
+\subsubsection{Base de datos}
+La investigación utilizó el conjunto de datos ASVspoof 2019 para evaluar cómo el aumento de datos afecta la robustez del modelo frente a ataques no observados.
+
+\subsubsection{Resultados obtenidos}
+La técnica de aumento mejoró significativamente la capacidad de ambos modelos para detectar deepfakes desconocidos, reduciendo el EER y aumentando la precisión en la mayoría de los tipos de deepfakes evaluados (Astrid et al., 2024).
