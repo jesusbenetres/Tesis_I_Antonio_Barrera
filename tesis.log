@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.23)  4 NOV 2024 15:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.23)  4 NOV 2024 17:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1426,25 +1426,14 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 4.
 
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 19 undefined on input l
-ine 5.
-
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 19 undefined on input l
-ine 5.
-
 [19
 
 
 
 
 ]
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
- [20]
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 21 undefined on input l
+LaTeX Warning: Citation 'pr_dehghani2018copper' on page 20 undefined on input l
 ine 22.
 
 
@@ -1455,17 +1444,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 22.
 
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 21 undefined on input l
-ine 23.
-
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 21 undefined on input l
-ine 23.
-
-LaTeX Info: Redefining \. on input line 36.
-LaTeX Info: Redefining \% on input line 36.
-[21]
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+[20]
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+ [21]
 
 LaTeX Warning: Citation 'pr_dehghani2018copper' on page 22 undefined on input l
 ine 40.
@@ -1484,16 +1468,8 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 40.
 
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 22 undefined on input l
-ine 41.
-
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 22 undefined on input l
-ine 41.
-
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
+LaTeX Info: Redefining \. on input line 54.
+LaTeX Info: Redefining \% on input line 54.
 [22]
 
 LaTeX Warning: Citation 'pr_dehghani2018copper' on page 23 undefined on input l
@@ -1507,16 +1483,8 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 58.
 
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 23 undefined on input l
-ine 59.
-
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 23 undefined on input l
-ine 59.
-
-LaTeX Info: Redefining \. on input line 63.
-LaTeX Info: Redefining \% on input line 63.
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
 [23]
 
 LaTeX Warning: Citation 'pr_dehghani2018copper' on page 24 undefined on input l
@@ -1530,16 +1498,8 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 76.
 
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 24 undefined on input l
-ine 77.
-
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 24 undefined on input l
-ine 77.
-
-LaTeX Info: Redefining \. on input line 78.
-LaTeX Info: Redefining \% on input line 78.
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
 [24]
 
 LaTeX Warning: Citation 'pr_dehghani2018copper' on page 25 undefined on input l
@@ -1559,22 +1519,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 94.
 
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 25 undefined on input l
-ine 95.
-
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 25 undefined on input l
-ine 95.
-
-LaTeX Info: Redefining \. on input line 96.
-LaTeX Info: Redefining \% on input line 96.
+LaTeX Info: Redefining \. on input line 105.
+LaTeX Info: Redefining \% on input line 105.
 [25]
-LaTeX Info: Redefining \. on input line 111.
-LaTeX Info: Redefining \% on input line 111.
- [26]
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 27 undefined on input l
+LaTeX Warning: Citation 'pr_dehghani2018copper' on page 26 undefined on input l
 ine 112.
 
 
@@ -1591,19 +1540,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 112.
 
+LaTeX Info: Redefining \. on input line 123.
+LaTeX Info: Redefining \% on input line 123.
+[26]
 
 LaTeX Warning: Citation 'pr_dehghani2018copper' on page 27 undefined on input l
-ine 113.
-
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 27 undefined on input l
-ine 113.
-
-LaTeX Info: Redefining \. on input line 127.
-LaTeX Info: Redefining \% on input line 127.
-[27]
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 28 undefined on input l
 ine 130.
 
 
@@ -1619,19 +1560,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 130.
 
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 28 undefined on input l
-ine 131.
-
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 28 undefined on input l
-ine 131.
-
 LaTeX Info: Redefining \. on input line 141.
 LaTeX Info: Redefining \% on input line 141.
-[28]
+[27]
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 29 undefined on input l
+LaTeX Warning: Citation 'pr_dehghani2018copper' on page 28 undefined on input l
 ine 148.
 
 
@@ -1647,19 +1580,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 148.
 
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 29 undefined on input l
-ine 149.
-
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 29 undefined on input l
-ine 149.
-
 LaTeX Info: Redefining \. on input line 159.
 LaTeX Info: Redefining \% on input line 159.
-[29]
+[28]
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 30 undefined on input l
+LaTeX Warning: Citation 'pr_dehghani2018copper' on page 29 undefined on input l
 ine 166.
 
 
@@ -1676,26 +1601,18 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 166.
 
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 30 undefined on input l
-ine 167.
-
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 30 undefined on input l
-ine 167.
-
-LaTeX Info: Redefining \. on input line 174.
-LaTeX Info: Redefining \% on input line 174.
-[30]) (2/2_teoria/base_teo.tex
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
- [31]
-LaTeX Info: Redefining \. on input line 14.
-LaTeX Info: Redefining \% on input line 14.
+LaTeX Info: Redefining \. on input line 177.
+LaTeX Info: Redefining \% on input line 177.
+[29]) (2/2_teoria/base_teo.tex
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+ [30]
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [31])
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
  [32]
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
- [33])
 (2/3_conceptos/marc_conceptual.tex
 Overfull \hbox (21.53572pt too wide) in paragraph at lines 6--6
 []\OT1/ptm/b/n/14.4 Procesamiento de Len-gua-je Na-tu-ral (PLN) y Pro-ce-sa-mie
@@ -1704,34 +1621,34 @@ n-to de Se[]nales
 
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
-[34]
+[33]
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
- [35]
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
- [36]))
+ [34]
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+ [35]))
 LaTeX Info: Redefining \. on input line 195.
 LaTeX Info: Redefining \% on input line 195.
- [37]
+ [36]
 \openout2 = `3/metodologia.aux'.
 
  (3/metodologia.tex
 Cap\'{\i }tulo 3.
-[38
+[37
 
 
 
 
 ]
-<3/figures/largepotato.jpg, id=770, 491.8375pt x 291.0875pt>
+<3/figures/largepotato.jpg, id=766, 491.8375pt x 291.0875pt>
 File: 3/figures/largepotato.jpg Graphic file (type jpg)
 <use 3/figures/largepotato.jpg>
 Package pdftex.def Info: 3/figures/largepotato.jpg  used on input line 24.
 (pdftex.def)             Requested size: 362.37598pt x 214.47751pt.
 LaTeX Info: Redefining \. on input line 35.
 LaTeX Info: Redefining \% on input line 35.
- [39 <./3/figures/largepotato.jpg>]
+ [38 <./3/figures/largepotato.jpg>]
 LaTeX Font Info:    Trying to load font information for U+eus on input line 54.
 
 
@@ -1741,15 +1658,15 @@ File: ueus.fd 2013/01/14 v3.01 Euler Script
 LaTeX Info: Redefining \. on input line 58.
 LaTeX Info: Redefining \% on input line 58.
 
-[40])
+[39])
 LaTeX Info: Redefining \. on input line 196.
 LaTeX Info: Redefining \% on input line 196.
- [41]
+ [40]
 \openout2 = `4/desarrollo.aux'.
 
  (4/desarrollo.tex
 Cap\'{\i }tulo 4.
-[42
+[41
 
 
 
@@ -1757,12 +1674,12 @@ Cap\'{\i }tulo 4.
 ])
 LaTeX Info: Redefining \. on input line 197.
 LaTeX Info: Redefining \% on input line 197.
- [43]
+ [42]
 \openout2 = `5/resultados.aux'.
 
  (5/resultados.tex
 Cap\'{\i }tulo 5.
-) [44
+) [43
 
 
 
@@ -1770,17 +1687,17 @@ Cap\'{\i }tulo 5.
 ]
 LaTeX Info: Redefining \. on input line 198.
 LaTeX Info: Redefining \% on input line 198.
- [45]
+ [44]
 \openout2 = `6/conclusion.aux'.
 
  (6/conclusion.tex
 Cap\'{\i }tulo 6.
-) [46
+) [45
 
 
 
 
-] [47
+] [46
 
 
 
@@ -1837,13 +1754,13 @@ LaTeX Warning: Float too large for page by 196.69452pt on input line 29.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[48
+[47
 
 
 ]
 LaTeX Info: Redefining \. on input line 33.
 LaTeX Info: Redefining \% on input line 33.
- [49]
+ [48]
 Anexos B.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
@@ -2156,12 +2073,12 @@ Underfull \hbox (badness 7362) in paragraph at lines 71--73
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [50
+) [49
 
 ]
 LaTeX Info: Redefining \. on input line 208.
 LaTeX Info: Redefining \% on input line 208.
- [51]
+ [50]
 
 LaTeX Warning: Empty bibliography on input line 213.
 
@@ -2192,8 +2109,8 @@ Package logreq Info: Writing requests to 'tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29335 strings out of 474486
- 570850 string characters out of 5743755
+ 29334 strings out of 474486
+ 570843 string characters out of 5743755
  1954542 words of memory out of 5000000
  50944 multiletter control sequences out of 15000+600000
  609274 words of font info for 149 fonts, out of 8000000 for 9000
@@ -2209,9 +2126,9 @@ iKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Users/Admin/AppData/Local/Programs/Mi
 KTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Admin/AppData/Local/Programs/Mi
 KTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Admin/AppData/Local/Programs/Mi
 KTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tesis.pdf (52 pages, 379295 bytes).
+Output written on tesis.pdf (51 pages, 374970 bytes).
 PDF statistics:
- 917 PDF objects out of 1000 (max. 8388607)
- 188 named destinations out of 1000 (max. 500000)
+ 913 PDF objects out of 1000 (max. 8388607)
+ 187 named destinations out of 1000 (max. 500000)
  1019 words of extra memory for PDF output out of 10000 (max. 10000000)
 

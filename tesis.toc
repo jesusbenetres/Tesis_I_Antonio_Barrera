@@ -33,95 +33,95 @@
 \contentsline {subsubsection}{\numberline {2.1.2.1}Planteamiento del Problema y objetivo }{21}{subsubsection.2.1.2.1}%
 \contentsline {subsubsection}{\numberline {2.1.2.2}Técnicas empleadas por los autores}{21}{subsubsection.2.1.2.2}%
 \contentsline {subsubsection}{\numberline {2.1.2.3}Metodología empleada por los autores}{21}{subsubsection.2.1.2.3}%
-\contentsline {subsubsection}{\numberline {2.1.2.4}Base de datos}{22}{subsubsection.2.1.2.4}%
+\contentsline {subsubsection}{\numberline {2.1.2.4}Base de datos}{21}{subsubsection.2.1.2.4}%
 \contentsline {subsubsection}{\numberline {2.1.2.5}Resultados obtenidos}{22}{subsubsection.2.1.2.5}%
 \contentsline {subsection}{\numberline {2.1.3}Comprehensive Multiparametric Analysis of Human Deepfake Speech Recognition \citep *{pr_dehghani2018copper}}{22}{subsection.2.1.3}%
 \contentsline {subsubsection}{\numberline {2.1.3.1}Planteamiento del Problema y objetivo }{22}{subsubsection.2.1.3.1}%
 \contentsline {subsubsection}{\numberline {2.1.3.2}Técnicas empleadas por los autores}{22}{subsubsection.2.1.3.2}%
-\contentsline {subsubsection}{\numberline {2.1.3.3}Metodología empleada por los autores}{23}{subsubsection.2.1.3.3}%
+\contentsline {subsubsection}{\numberline {2.1.3.3}Metodología empleada por los autores}{22}{subsubsection.2.1.3.3}%
 \contentsline {subsubsection}{\numberline {2.1.3.4}Base de datos}{23}{subsubsection.2.1.3.4}%
 \contentsline {subsubsection}{\numberline {2.1.3.5}Resultados obtenidos}{23}{subsubsection.2.1.3.5}%
 \contentsline {subsection}{\numberline {2.1.4}Deepfake Audio Detection Using Spectrogram-based Feature and Ensemble of Deep Learning Models \citep *{pr_dehghani2018copper}}{23}{subsection.2.1.4}%
-\contentsline {subsubsection}{\numberline {2.1.4.1}Planteamiento del Problema y objetivo }{24}{subsubsection.2.1.4.1}%
-\contentsline {subsubsection}{\numberline {2.1.4.2}Técnicas empleadas por los autores}{24}{subsubsection.2.1.4.2}%
+\contentsline {subsubsection}{\numberline {2.1.4.1}Planteamiento del Problema y objetivo }{23}{subsubsection.2.1.4.1}%
+\contentsline {subsubsection}{\numberline {2.1.4.2}Técnicas empleadas por los autores}{23}{subsubsection.2.1.4.2}%
 \contentsline {subsubsection}{\numberline {2.1.4.3}Metodología empleada por los autores}{24}{subsubsection.2.1.4.3}%
 \contentsline {subsubsection}{\numberline {2.1.4.4}Base de datos}{24}{subsubsection.2.1.4.4}%
 \contentsline {subsubsection}{\numberline {2.1.4.5}Resultados obtenidos}{24}{subsubsection.2.1.4.5}%
-\contentsline {subsection}{\numberline {2.1.5}Deepfake Audio Detection Using Spectrogram-based Feature and Ensemble of Deep Learning Models \citep *{pr_dehghani2018copper}}{25}{subsection.2.1.5}%
-\contentsline {subsubsection}{\numberline {2.1.5.1}Planteamiento del Problema y objetivo }{25}{subsubsection.2.1.5.1}%
-\contentsline {subsubsection}{\numberline {2.1.5.2}Técnicas empleadas por los autores}{25}{subsubsection.2.1.5.2}%
+\contentsline {subsection}{\numberline {2.1.5}Deepfake Audio Detection Using Spectrogram-based Feature and Ensemble of Deep Learning Models \citep *{pr_dehghani2018copper}}{24}{subsection.2.1.5}%
+\contentsline {subsubsection}{\numberline {2.1.5.1}Planteamiento del Problema y objetivo }{24}{subsubsection.2.1.5.1}%
+\contentsline {subsubsection}{\numberline {2.1.5.2}Técnicas empleadas por los autores}{24}{subsubsection.2.1.5.2}%
 \contentsline {subsubsection}{\numberline {2.1.5.3}Metodología empleada por los autores}{25}{subsubsection.2.1.5.3}%
 \contentsline {subsubsection}{\numberline {2.1.5.4}Base de datos}{25}{subsubsection.2.1.5.4}%
 \contentsline {subsubsection}{\numberline {2.1.5.5}Resultados obtenidos}{25}{subsubsection.2.1.5.5}%
-\contentsline {subsection}{\numberline {2.1.6}Detection of Deepfake Media Using a Hybrid CNN-RNN Model and Particle Swarm Optimization (PSO) Algorithm \citep *{pr_dehghani2018copper}}{26}{subsection.2.1.6}%
-\contentsline {subsubsection}{\numberline {2.1.6.1}Planteamiento del Problema y objetivo }{26}{subsubsection.2.1.6.1}%
-\contentsline {subsubsection}{\numberline {2.1.6.2}Técnicas empleadas por los autores}{26}{subsubsection.2.1.6.2}%
+\contentsline {subsection}{\numberline {2.1.6}Detection of Deepfake Media Using a Hybrid CNN-RNN Model and Particle Swarm Optimization (PSO) Algorithm \citep *{pr_dehghani2018copper}}{25}{subsection.2.1.6}%
+\contentsline {subsubsection}{\numberline {2.1.6.1}Planteamiento del Problema y objetivo }{25}{subsubsection.2.1.6.1}%
+\contentsline {subsubsection}{\numberline {2.1.6.2}Técnicas empleadas por los autores}{25}{subsubsection.2.1.6.2}%
 \contentsline {subsubsection}{\numberline {2.1.6.3}Metodología empleada por los autores}{26}{subsubsection.2.1.6.3}%
 \contentsline {subsubsection}{\numberline {2.1.6.4}Base de datos}{26}{subsubsection.2.1.6.4}%
-\contentsline {subsubsection}{\numberline {2.1.6.5}Resultados obtenidos}{27}{subsubsection.2.1.6.5}%
-\contentsline {subsection}{\numberline {2.1.7}Efficient Deepfake Audio Detection Using Spectro-Temporal Analysis and Deep Learning \citep *{pr_dehghani2018copper}}{27}{subsection.2.1.7}%
-\contentsline {subsubsection}{\numberline {2.1.7.1}Planteamiento del Problema y objetivo }{27}{subsubsection.2.1.7.1}%
-\contentsline {subsubsection}{\numberline {2.1.7.2}Técnicas empleadas por los autores}{27}{subsubsection.2.1.7.2}%
+\contentsline {subsubsection}{\numberline {2.1.6.5}Resultados obtenidos}{26}{subsubsection.2.1.6.5}%
+\contentsline {subsection}{\numberline {2.1.7}Efficient Deepfake Audio Detection Using Spectro-Temporal Analysis and Deep Learning \citep *{pr_dehghani2018copper}}{26}{subsection.2.1.7}%
+\contentsline {subsubsection}{\numberline {2.1.7.1}Planteamiento del Problema y objetivo }{26}{subsubsection.2.1.7.1}%
+\contentsline {subsubsection}{\numberline {2.1.7.2}Técnicas empleadas por los autores}{26}{subsubsection.2.1.7.2}%
 \contentsline {subsubsection}{\numberline {2.1.7.3}Metodología empleada por los autores}{27}{subsubsection.2.1.7.3}%
-\contentsline {subsubsection}{\numberline {2.1.7.4}Base de datos}{28}{subsubsection.2.1.7.4}%
-\contentsline {subsubsection}{\numberline {2.1.7.5}Resultados obtenidos}{28}{subsubsection.2.1.7.5}%
-\contentsline {subsection}{\numberline {2.1.8}Exploring Green AI for Audio Deepfake Detection \citep *{pr_dehghani2018copper}}{28}{subsection.2.1.8}%
-\contentsline {subsubsection}{\numberline {2.1.8.1}Planteamiento del Problema y objetivo }{28}{subsubsection.2.1.8.1}%
-\contentsline {subsubsection}{\numberline {2.1.8.2}Técnicas empleadas por los autores}{28}{subsubsection.2.1.8.2}%
+\contentsline {subsubsection}{\numberline {2.1.7.4}Base de datos}{27}{subsubsection.2.1.7.4}%
+\contentsline {subsubsection}{\numberline {2.1.7.5}Resultados obtenidos}{27}{subsubsection.2.1.7.5}%
+\contentsline {subsection}{\numberline {2.1.8}Exploring Green AI for Audio Deepfake Detection \citep *{pr_dehghani2018copper}}{27}{subsection.2.1.8}%
+\contentsline {subsubsection}{\numberline {2.1.8.1}Planteamiento del Problema y objetivo }{27}{subsubsection.2.1.8.1}%
+\contentsline {subsubsection}{\numberline {2.1.8.2}Técnicas empleadas por los autores}{27}{subsubsection.2.1.8.2}%
 \contentsline {subsubsection}{\numberline {2.1.8.3}Metodología empleada por los autores}{28}{subsubsection.2.1.8.3}%
-\contentsline {subsubsection}{\numberline {2.1.8.4}Base de datos}{29}{subsubsection.2.1.8.4}%
-\contentsline {subsubsection}{\numberline {2.1.8.5}Resultados obtenidos}{29}{subsubsection.2.1.8.5}%
-\contentsline {subsection}{\numberline {2.1.9}FakeSound: Deepfake General Audio Detection \citep *{pr_dehghani2018copper}}{29}{subsection.2.1.9}%
-\contentsline {subsubsection}{\numberline {2.1.9.1}Planteamiento del Problema y objetivo }{29}{subsubsection.2.1.9.1}%
-\contentsline {subsubsection}{\numberline {2.1.9.2}Técnicas empleadas por los autores}{29}{subsubsection.2.1.9.2}%
-\contentsline {subsubsection}{\numberline {2.1.9.3}Metodología empleada por los autores}{30}{subsubsection.2.1.9.3}%
-\contentsline {subsubsection}{\numberline {2.1.9.4}Base de datos}{30}{subsubsection.2.1.9.4}%
-\contentsline {subsubsection}{\numberline {2.1.9.5}Resultados obtenidos}{30}{subsubsection.2.1.9.5}%
-\contentsline {subsection}{\numberline {2.1.10}Targeted Augmented Data for Audio Deepfake Detection \citep *{pr_dehghani2018copper}}{30}{subsection.2.1.10}%
-\contentsline {subsubsection}{\numberline {2.1.10.1}Planteamiento del Problema y objetivo }{30}{subsubsection.2.1.10.1}%
-\contentsline {subsubsection}{\numberline {2.1.10.2}Técnicas empleadas por los autores}{31}{subsubsection.2.1.10.2}%
-\contentsline {subsubsection}{\numberline {2.1.10.3}Metodología empleada por los autores}{31}{subsubsection.2.1.10.3}%
-\contentsline {subsubsection}{\numberline {2.1.10.4}Base de datos}{31}{subsubsection.2.1.10.4}%
-\contentsline {subsubsection}{\numberline {2.1.10.5}Resultados obtenidos}{31}{subsubsection.2.1.10.5}%
-\contentsline {section}{\numberline {2.2}Marco Teórico}{31}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Introducción al Deepfake de Audio}{31}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Teoría y Fundamentos en Análisis de Voz}{32}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Teoría y Fundamentos en Análisis de Voz}{32}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Estudios Previos en Detección de Deepfakes}{33}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}Desafíos y Limitaciones en la Detección de Deepfakes de Audio}{33}{subsection.2.2.5}%
-\contentsline {section}{\numberline {2.3}Marco Conceptual}{34}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Inteligencia Artificial (IA) y Aprendizaje Profundo}{34}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Procesamiento de Lenguaje Natural (PLN) y Procesamiento de Señales de Voz}{35}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Deepfakes de Audio}{35}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Variables de Estudio para la Detección de Deepfakes en Audio}{36}{subsection.2.3.4}%
-\contentsline {subsubsection}{\numberline {2.3.4.1}Tono de Voz (Pitch)}{36}{subsubsection.2.3.4.1}%
-\contentsline {subsubsection}{\numberline {2.3.4.2}Timbre de Voz}{36}{subsubsection.2.3.4.2}%
-\contentsline {subsubsection}{\numberline {2.3.4.3}Duración y Ritmo del Habla}{36}{subsubsection.2.3.4.3}%
-\contentsline {subsubsection}{\numberline {2.3.4.4}Mel-Spectrograma}{36}{subsubsection.2.3.4.4}%
-\contentsline {subsubsection}{\numberline {2.3.4.5}Prosodia (Entonación y Énfasis)}{37}{subsubsection.2.3.4.5}%
-\contentsline {subsubsection}{\numberline {2.3.4.6}Articulación y Transiciones entre Fonemas}{37}{subsubsection.2.3.4.6}%
-\contentsline {chapter}{\numberline {3}METODOLOGÍA DE LA INVESTIGACIÓN}{38}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Diseño de la investigación}{38}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Diseño no experimental}{38}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Tipo explicativo}{38}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Enfoque cuantitativo}{39}{subsection.3.1.3}%
-\contentsline {section}{\numberline {3.2}Población y muestra}{39}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Operacionalización de Variables}{39}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Instrumentos de medida}{40}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Técnicas de recolección de datos}{40}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Técnicas para el procesamiento y análisis de la información}{41}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Cronograma de actividades y presupuesto}{41}{section.3.7}%
-\contentsline {chapter}{\numberline {4}DESARROLLO DEL EXPERIMENTO}{42}{chapter.4}%
-\contentsline {section}{\numberline {4.1}X}{42}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Y}{42}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Z}{43}{section.4.3}%
-\contentsline {chapter}{\numberline {5}ANÁLISIS Y DISCUSIÓN DE RESULTADOS}{44}{chapter.5}%
-\contentsline {section}{\numberline {5.1}X}{44}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Y}{44}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Z}{45}{section.5.3}%
-\contentsline {chapter}{\numberline {6}CONCLUSIONES Y RECOMENDACIONES}{46}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Conclusiones}{46}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Recomendaciones}{46}{section.6.2}%
-\contentsline {chapter}{Anexos}{47}{section*.8}%
-\contentsline {chapter}{\numberline {A}Anexo I: Matriz de Consistencia}{48}{appendix.Alph1}%
-\contentsline {chapter}{\numberline {B}Anexo II: Resumen de Papers investigados}{50}{appendix.Alph2}%
+\contentsline {subsubsection}{\numberline {2.1.8.4}Base de datos}{28}{subsubsection.2.1.8.4}%
+\contentsline {subsubsection}{\numberline {2.1.8.5}Resultados obtenidos}{28}{subsubsection.2.1.8.5}%
+\contentsline {subsection}{\numberline {2.1.9}FakeSound: Deepfake General Audio Detection \citep *{pr_dehghani2018copper}}{28}{subsection.2.1.9}%
+\contentsline {subsubsection}{\numberline {2.1.9.1}Planteamiento del Problema y objetivo }{28}{subsubsection.2.1.9.1}%
+\contentsline {subsubsection}{\numberline {2.1.9.2}Técnicas empleadas por los autores}{28}{subsubsection.2.1.9.2}%
+\contentsline {subsubsection}{\numberline {2.1.9.3}Metodología empleada por los autores}{29}{subsubsection.2.1.9.3}%
+\contentsline {subsubsection}{\numberline {2.1.9.4}Base de datos}{29}{subsubsection.2.1.9.4}%
+\contentsline {subsubsection}{\numberline {2.1.9.5}Resultados obtenidos}{29}{subsubsection.2.1.9.5}%
+\contentsline {subsection}{\numberline {2.1.10}Targeted Augmented Data for Audio Deepfake Detection \citep *{pr_dehghani2018copper}}{29}{subsection.2.1.10}%
+\contentsline {subsubsection}{\numberline {2.1.10.1}Planteamiento del Problema y objetivo }{29}{subsubsection.2.1.10.1}%
+\contentsline {subsubsection}{\numberline {2.1.10.2}Técnicas empleadas por los autores}{29}{subsubsection.2.1.10.2}%
+\contentsline {subsubsection}{\numberline {2.1.10.3}Metodología empleada por los autores}{30}{subsubsection.2.1.10.3}%
+\contentsline {subsubsection}{\numberline {2.1.10.4}Base de datos}{30}{subsubsection.2.1.10.4}%
+\contentsline {subsubsection}{\numberline {2.1.10.5}Resultados obtenidos}{30}{subsubsection.2.1.10.5}%
+\contentsline {section}{\numberline {2.2}Marco Teórico}{30}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Introducción al Deepfake de Audio}{30}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Teoría y Fundamentos en Análisis de Voz}{31}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Teoría y Fundamentos en Análisis de Voz}{31}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Estudios Previos en Detección de Deepfakes}{32}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Desafíos y Limitaciones en la Detección de Deepfakes de Audio}{32}{subsection.2.2.5}%
+\contentsline {section}{\numberline {2.3}Marco Conceptual}{33}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Inteligencia Artificial (IA) y Aprendizaje Profundo}{33}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Procesamiento de Lenguaje Natural (PLN) y Procesamiento de Señales de Voz}{33}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Deepfakes de Audio}{34}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Variables de Estudio para la Detección de Deepfakes en Audio}{34}{subsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.4.1}Tono de Voz (Pitch)}{35}{subsubsection.2.3.4.1}%
+\contentsline {subsubsection}{\numberline {2.3.4.2}Timbre de Voz}{35}{subsubsection.2.3.4.2}%
+\contentsline {subsubsection}{\numberline {2.3.4.3}Duración y Ritmo del Habla}{35}{subsubsection.2.3.4.3}%
+\contentsline {subsubsection}{\numberline {2.3.4.4}Mel-Spectrograma}{35}{subsubsection.2.3.4.4}%
+\contentsline {subsubsection}{\numberline {2.3.4.5}Prosodia (Entonación y Énfasis)}{36}{subsubsection.2.3.4.5}%
+\contentsline {subsubsection}{\numberline {2.3.4.6}Articulación y Transiciones entre Fonemas}{36}{subsubsection.2.3.4.6}%
+\contentsline {chapter}{\numberline {3}METODOLOGÍA DE LA INVESTIGACIÓN}{37}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Diseño de la investigación}{37}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Diseño no experimental}{37}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Tipo explicativo}{37}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Enfoque cuantitativo}{38}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Población y muestra}{38}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Operacionalización de Variables}{38}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Instrumentos de medida}{39}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Técnicas de recolección de datos}{39}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Técnicas para el procesamiento y análisis de la información}{40}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Cronograma de actividades y presupuesto}{40}{section.3.7}%
+\contentsline {chapter}{\numberline {4}DESARROLLO DEL EXPERIMENTO}{41}{chapter.4}%
+\contentsline {section}{\numberline {4.1}X}{41}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Y}{41}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Z}{42}{section.4.3}%
+\contentsline {chapter}{\numberline {5}ANÁLISIS Y DISCUSIÓN DE RESULTADOS}{43}{chapter.5}%
+\contentsline {section}{\numberline {5.1}X}{43}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Y}{43}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Z}{44}{section.5.3}%
+\contentsline {chapter}{\numberline {6}CONCLUSIONES Y RECOMENDACIONES}{45}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Conclusiones}{45}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Recomendaciones}{45}{section.6.2}%
+\contentsline {chapter}{Anexos}{46}{section*.8}%
+\contentsline {chapter}{\numberline {A}Anexo I: Matriz de Consistencia}{47}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {B}Anexo II: Resumen de Papers investigados}{49}{appendix.Alph2}%
