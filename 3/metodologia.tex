@@ -1,71 +1,209 @@
 \chapter{METODOLOGÍA DE LA INVESTIGACIÓN}
 \section{Diseño de la investigación}
-En esta sección del documento se explicará cual es el diseño, el tipo y el enfoque del trabajo de
-investigación, así como también la población y la muestra. 
+En esta sección del documento se explicará cual es el diseño, el tipo y el enfoque del trabajo de investigación, así como también la población y la muestra. 
 %Para finalizar se explicará el
 %proceso de aplicación de las redes neuronales convolucionales.
-\subsection{Diseño no experimental}
-El diseño es no experimental longitudinal, ya que las variables no serán manipuladas y serán analizadas tal como se encuentran. Es decir, tanto los datos textuales (noticias) y el precio del cobre serán analizados sin ningún cambio aplicando técnicas de procesamiento de lenguaje natural y algoritmos de aprendizaje automático con la finalidad de crear un modelo productivo robusto y facilitar la predicción del cobre. Asimismo, la recolección de datos que se realizará será en un determinado periodo de tiempo. 
+\subsection{Enfoque de la investigación}
+El enfoque de esta investigación es cuantitativo y experimental, dirigida a mejorar la detección de deepfakes en audio en español. A través del uso de redes neuronales profundas, este estudio explora específicamente las características acústicas del audio (como tono, timbre, patrones de voz y otros atributos prosódicos) para diferenciar entre audios genuinos y manipulados. Este enfoque se basa en la implementación y evaluación de modelos de aprendizaje profundo y técnicas de procesamiento de señales, buscando no solo la precisión en la detección sino también la adaptación a las particularidades del idioma español y al contexto peruano, donde los casos de fraude por deepfakes están en aumento. 
 
-\subsection{Tipo explicativo}
-El alcance de la presente investigación es explicativo debido a que se busca explicar el comportamiento volátil del precio del cobre en base a noticias de periódicos digitales y además predecirlo.
+\subsection{Alcance de la investigación:}
+El alcance de esta investigación incluye el desarrollo y validación de un modelo de detección de deepfakes de audio optimizado para audios en español. La investigación cubrirá tanto la identificación de los atributos acústicos más relevantes en la detección de deepfakes en español como la construcción de una base de datos experimental que incorpore muestras de audio adaptadas al contexto peruano. Además, este estudio analizará la efectividad del modelo en varios escenarios acústicos (diferentes niveles de ruido de fondo y calidad de grabación), ampliando su aplicabilidad en situaciones reales de verificación de identidad, seguridad digital y prevención de fraudes.
 
-\subsection{Enfoque cuantitativo}
-El enfoque esta investigación es cuantitativo dado que se empleará técnicas del procesamiento de lenguaje natural (NLP), las cuales conllevan a procesar los datos de tipo textual a numéricos (vectores de características) y con ello posteriormente usar técnicas estadísticas como la regresión lineal para la predicción del precio del cobre.
-
-
+\subsection{EDiseño de la investigación:}
+El diseño de esta investigación es experimental y longitudinal. Involucra la implementación de un sistema de detección de deepfakes que será entrenado, validado y probado en múltiples etapas. Primero, se seleccionarán y procesarán muestras de audio de deepfakes y genuinas en español para obtener un conjunto de datos representativo. Luego, se aplicarán diferentes arquitecturas de redes neuronales profundas, evaluando sus precisiones y ajustando parámetros clave para optimizar el rendimiento. El diseño incluye comparativas en la precisión del modelo y pruebas de robustez frente a variaciones en las características del audio, utilizando métricas como la tasa de error igual (EER) y el F1 score. Finalmente, el estudio evaluará la generalización del modelo frente a datos no observados previamente, asegurando su aplicabilidad en contextos reales y su utilidad para mitigar el fraude.
 
 \section{Población y muestra}
 
- Nisi porta lorem mollis aliquam ut porttitor leo. Aenean pharetra magna ac placerat vestibulum. Est placerat in egestas erat imperdiet sed euismod. Velit euismod in pellentesque massa placerat. Enim praesent elementum facilisis leo vel fringilla. Ante in nibh mauris cursus mattis molestie a iaculis. Erat pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Porttitor lacus luctus accumsan tortor posuere ac ut. Tortor at auctor urna nunc id. A iaculis at erat pellentesque adipiscing commodo elit. La Figura \ref{fig1} y el Cuadro \ref{tab:widgets}
+La población de estudio para esta investigación estará compuesta por todos los ciudadanos peruanos que potencialmente podrían ser víctimas de fraudes a través del uso de deepfake en español. Esta población incluirá individuos de diversas regiones del país, considerando tanto áreas urbanas como rurales, lo cual permitirá obtener una visión amplia y representativa de las distintas realidades socioeconómicas y tecnológicas presentes en el Perú. Se pondrá especial énfasis en aquellos que se encuentren expuestos a situaciones de riesgo en plataformas de comunicación digital, redes sociales y medios de comunicación tradicionales, ya que estos medios son los principales canales de distribución del contenido manipulado mediante deepfake.
 
-	\begin{figure}[h]
-		\begin{center}
-			\includegraphics[width=0.8\textwidth]{3/figures/largepotato.jpg}
-			\caption{Prueba de Figura}
-			\label{fig1}
-		\end{center}
-		
-	\end{figure}
+Además, se considerarán distintos perfiles demográficos, incluyendo personas de diferentes niveles socioeconómicos, rangos de edad y grados de acceso a tecnologías digitales. Esto permitirá analizar cómo factores como la educación, el ingreso económico y el acceso a la tecnología influyen en la susceptibilidad frente a fraudes mediante deepfake. Incluir a individuos con distintos niveles de alfabetización digital permitirá evaluar si el conocimiento y manejo de tecnologías de la información y comunicación influyen en la capacidad de identificar y resistir posibles fraudes.
+
+Según Hernández Sampieri et al. (2018), la población se define como "el conjunto de todos los casos que concuerdan con una serie de especificaciones". En este caso, los "casos" se refieren a personas que cumplen con características como el idioma (español) y la exposición a contextos vulnerables al fraude digital en el Perú. Definir con claridad la población permite precisar los objetivos del estudio y delimitar los criterios de inclusión y exclusión, lo cual es crucial para la validez de la investigación. Además, contar con una población bien delimitada facilita la representatividad de los resultados y asegura que las conclusiones obtenidas puedan aplicarse al contexto general peruano, proporcionando datos relevantes para la prevención y mitigación de fraudes mediante deepfake.
+
+La muestra de este estudio se seleccionará utilizando un muestreo no probabilístico intencional, debido a la naturaleza específica de la población objetivo y a las características del fenómeno a estudiar. La muestra estará conformada por aproximadamente 500 individuos de distintas regiones del Perú, quienes serán seleccionados por cumplir con los criterios de exposición a riesgos de fraude mediante deepfake, así como por su participación activa en plataformas digitales y redes sociales. Esta muestra buscará representar una diversidad de contextos socioeconómicos y tecnológicos, lo cual permitirá evaluar cómo diferentes factores influyen en la vulnerabilidad frente a estos fraudes. El tamaño de la muestra se ha determinado para asegurar una representatividad adecuada y permitir un análisis significativo de las variables estudiadas, garantizando al mismo tiempo la viabilidad operativa del estudio.
 
 
 \section{Operacionalización de Variables}
 
-Nisi porta lorem mollis aliquam ut porttitor leo. Aenean pharetra magna ac placerat vestibulum. Est placerat in egestas erat imperdiet sed euismod. Velit euismod in pellentesque massa placerat. Enim praesent elementum facilisis leo vel fringilla. Ante in nibh mauris cursus mattis molestie a iaculis. Erat pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Porttitor lacus luctus accumsan tortor posuere ac ut. Tortor at auctor urna nunc id. A iaculis at erat pellentesque adipiscing commodo elit.
-\section{Instrumentos de medida}
-Nisi porta lorem mollis aliquam ut porttitor leo. Aenean pharetra magna ac placerat \begin{itemize}
-	\item muscle and fat cells remove glucose from the blood,
-	\item cells breakdown glucose via glycolysis and the citrate cycle, storing its energy in the form of ATP,
-	\item liver and muscle store glucose as glycogen as a short-term energy reserve,
-	\item adipose tissue stores glucose as fat for long-term energy reserve, and
-	\item cells use glucose for protein synthesis.
+\subsection{Variable dependiente}
+
+\subsubsection{Detección de audio deepfake}
+
+\begin{itemize}
+	\item Definición conceptual: Proceso de identificación de audios generados mediante técnicas de síntesis y manipulación de voz con el objetivo de suplantar la identidad de una persona o de alterar el contenido del mensaje.
+	\item Definición operacional: Medida binaria (1 = deepfake, 0 = no deepfake) determinada por el modelo de redes neuronales profundas diseñado para analizar y clasificar el audio como genuino o falso. La detección se realiza a partir de la salida del modelo, utilizando métricas de precisión, sensibilidad y especificidad para evaluar el desempeño.
+\end{itemize}
+
+\subsection{Variables independientes}
+
+\subsubsection{Patrones de voz}
+
+\begin{itemize}
+	\item Definición conceptual: Proceso de identificación de audios generados mediante técnicaDefinición conceptual: Características recurrentes del habla que incluyen aspectos como el ritmo, la cadencia y los matices propios de la voz de una persona.
+	\item Definición operacional: Análisis cuantitativo de patrones acústicos extraídos de señales de audio mediante la extracción de características como Mel-spectrogramas y coeficientes cepstrales de frecuencia Mel (MFCC).
+\end{itemize}
+
+\subsubsection{Frecuencia fundamental (pitch)}
+
+\begin{itemize}
+	\item Definición conceptual: Frecuencia básica de vibración de las cuerdas vocales durante la producción de la voz, que se percibe como la altura tonal.
+	\item Definición operacional: Medición en Hz de la frecuencia fundamental mediante algoritmos de análisis de señal (autocorrelación) para determinar la variación del pitch a lo largo del tiempo en cada fragmento de audio.
+\end{itemize}
+
+\subsubsection{Duración y ritmo del habla}
+
+\begin{itemize}
+	\item Definición conceptual: Duración de los sonidos emitidos y la velocidad a la que se emiten las palabras o sílabas.
+	\item Definición operacional: Medición del tiempo promedio (en segundos) que toma cada sílaba y cálculo del ritmo del habla a partir de la distribución temporal de las pausas y la velocidad promedio del discurso.
+\end{itemize}
+
+\subsubsection{Tono de voz}
+
+\begin{itemize}
+	\item Definición conceptual: Percepción del sonido que permite identificar si es grave o agudo, relacionado con la modulación del pitch.
+	\item Definición operacional: Evaluación subjetiva a partir del análisis de la variación del pitch, utilizando técnicas de cuantificación estadística de la frecuencia fundamental.
+\end{itemize}
+
+\subsubsection{Timbre de voz}
+
+\begin{itemize}
+	\item Definición conceptual: Calidad del sonido que distingue una voz de otra, incluso si tienen el mismo pitch y volumen.
+	\item Definición operacional: Análisis de la señal mediante la extracción de armónicos y características espectrales (formantes) que permiten diferenciar la voz individual.
+\end{itemize}
+
+\subsubsection{Formantes}
+
+\begin{itemize}
+	\item Definición conceptual: Picos de resonancia en el espectro de la voz que permiten caracterizar los sonidos del habla.
+	\item Definición operacional: Identificación y medición de las frecuencias de los principales formantes (F1, F2, F3) mediante técnicas de análisis espectral.
+\end{itemize}
+
+\subsubsection{Prosodia}
+
+\begin{itemize}
+	\item Definición conceptual: Aspectos suprasegmentales del habla, como el acento, la entonación y el ritmo.
+	\item Definición operacional: Análisis de la variación de la frecuencia fundamental y la amplitud para medir patrones prosódicos y su correspondencia con el contenido del habla.
+\end{itemize}
+
+\subsubsection{Articulación}
+
+\begin{itemize}
+	\item Definición conceptual: Movimiento y posición de los órganos articulatorios (labios, lengua, paladar) al momento de producir sonidos.
+	\item Definición operacional: Evaluación indirecta a partir del análisis de transiciones suaves y precisas entre fonemas, utilizando el espectrograma para identificar inconsistencias.
+\end{itemize}
+
+\subsubsection{Transiciones entre fonemas}
+
+\begin{itemize}
+	\item Definición conceptual: Fluidez y continuidad en el paso de un fonema a otro durante el habla.
+	\item Definición operacional: Análisis espectral que identifica la calidad de la transición fonética, buscando indicios de discontinuidades o anomalías entre fonemas.
+\end{itemize}
+
+\subsubsection{Ruido de fondo}
+
+\begin{itemize}
+	\item Definición conceptual: Sonidos adicionales presentes durante la grabación de la voz que no son parte de la emisión vocal intencional.
+	\item Definición operacional: Detección y cuantificación del nivel de ruido de fondo (en dB) utilizando técnicas de reducción de ruido y análisis espectral para evaluar la influencia del entorno.
 \end{itemize}
 
 \section{Técnicas de recolección de datos}
-Nisi porta lorem mollis aliquam ut porttitor leo. Aenean pharetra magna ac placerat vestibulum. Est placerat in egestas erat imperdiet sed euismod. Velit euismod in pellentesque massa placerat. Enim praesent elementum facilisis leo vel fringilla. Ante in nibh mauris cursus mattis molestie a iaculis. Erat pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Porttitor lacus luctus accumsan tortor posuere ac ut. Tortor at auctor urna nunc id. A iaculis at erat pellentesque adipiscing commodo elit.
 
-\LaTeX{} is great at typesetting mathematics. Let $X_1, X_2, \ldots, X_n$ be a sequence of independent and identically distributed random variables with
-\begin{equation}
-	S_n = \frac{X_1 + X_2 + \cdots + X_n}{n}
-	= \frac{1}{n}\sum_{i}^{n} X_i
-	\label{eq1}
-\end{equation}
+Para la recolección de datos en esta investigación sobre la detección de audio deepfake en español utilizando redes neuronales profundas, se considerarán varias técnicas de recolección de datos, principalmente enfocadas en la obtención de muestras de audio que sean representativas del fenómeno deepfake y del habla natural.
 
-La Ecuación \ref{eq1} denote their mean. Then as $n$ approaches infinity, the random variables $$\sqrt{n}(S_n - \mu)$$ converge in distribution to a normal $\mathcal{N}(0, \sigma^2)$.
+\subsection{Grabaciones Directas de Voz}
+
+\subsubsection{Participantes Voluntarios}
+
+Se recopilarán datos grabados directamente a voluntarios hablando en español. Para esto, se realizarán sesiones de grabación bajo condiciones controladas, donde los participantes hablen sobre ciertos temas específicos.
+
+\subsubsection{Variación de Condiciones de Grabación}
+
+Se incluirán también voces en diferentes ambientes para así evaluar el ruido de fondo en la detección de deepfake.
+
+\subsection{Recolección de Audios de Plataformas de Comunicación}
+
+\subsubsection{Redes sociales y plataformas de mensajería}
+
+Con el consentimiento adecuado y cumpliendo con las normativas éticas y de privacidad, se podrá recopilar audios de plataformas como WhatsApp, Telegram, Facebook,etc.
+
+\subsubsection{Audios de YouTube, Podcasts u otras plataformas de creación de contenido}
+
+Se tomarán audios de plataformas públicas en los que se encontrarán audios de diversas temáticas y acentos propios de las diferentes regiones geográficas.
+
+\subsection{Generación de Audio Deepfake}
+
+\subsubsection{Generación con Modelos TTS y de Conversión de Voz}
+
+Se pueden recolectar datos generando audios deepfake utilizando herramientas de Text-to-Speech (TTS) como Tacotron, WaveNet, FastSpeech, o técnicas de conversión de voz como Voice Conversion. Se pueden crear audios falsos que emulen las voces de ciertos individuos y luego comparar estos con audios genuinos. Esto sería parte de la generación controlada de audios para su uso como datos de entrenamiento.
+
+\subsubsection{Sistemas de Generación Basados en IA}
+
+Se generarán audios falsos utilizando redes neuronales generativas como GANs (Generative Adversarial Networks) o variaciones como StyleGAN. También se podrían usar sistemas como DeepVoice, que están específicamente diseñados para manipular el audio.
 
 \section{Técnicas para el procesamiento y análisis de la información}
-Nisi porta lorem mollis aliquam ut porttitor leo. Aenean pharetra magna ac placerat vestibulum. Est placerat in egestas erat imperdiet sed euismod. Velit euismod in pellentesque massa placerat. Enim praesent elementum facilisis leo vel fringilla. Ante in nibh mauris cursus mattis molestie a iaculis. Erat pellentesque adipiscing commodo elit at imperdiet dui accumsan sit. Porttitor lacus luctus accumsan tortor posuere ac ut. Tortor at auctor urna nunc id. A iaculis at erat pellentesque adipiscing commodo elit.
 
-You can make lists with automatic numbering \dots
+\subsection{Extracción de Características Acústicas}
+A continuación se detallan las técnicas fundamentales para extraer la información relevante de la señal de audio que servirá como insumo para el entrenamiento de los modelos de detección.
 
-\begin{enumerate}
-	\item Like this,
-	\item and like this.
-\end{enumerate}
-\dots or bullet points \dots
 \begin{itemize}
-	\item Like this,
-	\item and like this.
+	\item MFCC (Coeficientes Cepstrales en Frecuencia Mel): Los MFCC se utilizan para obtener una representación espectral de la señal de audio que refleja las características del tracto vocal. Esta técnica es útil para analizar el timbre y distinguir entre diferentes voces (Zhang et al., 2017).
+	\item Formantes: Los formantes son picos de resonancia en el espectro de la voz que caracterizan a los diferentes sonidos del habla. Medir las frecuencias de los principales formantes (F1, F2, F3) permite detectar diferencias en la articulación, útiles para identificar audios deepfake (Jacewicz \& Fox, 2013).
+	\item Formantes: Los formantes son picos de resonancia en el espectro de la voz que caracterizan a los diferentes sonidos del habla. Medir las frecuencias de los principales formantes (F1, F2, F3) permite detectar diferencias en la articulación, útiles para identificar audios deepfake (Jacewicz \& Fox, 2013).
+	\item Prosodia: La prosodia abarca aspectos como la entonación, el ritmo y la duración del habla. Estos factores pueden ser útiles para detectar anomalías típicas de audios deepfake, ya que la generación artificial de voz puede tener patrones prosódicos que no coinciden con el habla humana natural (Rosenberg, 2012).
+	\item Frecuencia Fundamental (Pitch): Analizar la frecuencia fundamental del audio permite evaluar la estabilidad y consistencia del tono de voz. Los cambios abruptos o inconsistentes pueden ser un indicativo de manipulación (Boersma \& Weenink, 2019).
+	\item Frecuencia Fundamental (Pitch): Analizar la frecuencia fundamental del audio permite evaluar la estabilidad y consistencia del tono de voz. Los cambios abruptos o inconsistentes pueden ser un indicativo de manipulación (Boersma \& Weenink, 2019).
+	\item Duración y Ritmo del Habla: La duración de fonemas y el ritmo general del habla son útiles para detectar diferencias entre audios genuinos y deepfake. Los modelos generativos suelen producir ritmos poco naturales o incoherencias en las transiciones entre fonemas (Cummins, 2018).
+	\item Duración y Ritmo del Habla: La duración de fonemas y el ritmo general del habla son útiles para detectar diferencias entre audios genuinos y deepfake. Los modelos generativos suelen producir ritmos poco naturales o incoherencias en las transiciones entre fonemas (Cummins, 2018).
+	\item Ruido de Fondo: Analizar el ruido de fondo, así como la reducción de ruido, puede ayudar a identificar inconsistencias que podrían indicar un audio falsificado. El ruido generado por deepfakes puede no ser coherente con el contenido del audio o con el ambiente en el que fue grabado (Taal et al., 2011).
+\end{itemize}
+
+
+\subsection{Transformadas y Representaciones Espectrales}
+
+Para convertir la señal de audio en representaciones que sean más fáciles de analizar y útiles para los modelos.
+
+\begin{itemize}
+	\item Transformada de Fourier (FFT): La Transformada Rápida de Fourier convierte la señal del dominio temporal al dominio frecuencial, permitiendo analizar cómo se distribuyen las frecuencias. Esto ayuda a detectar patrones de manipulación en las frecuencias del audio (Smith, 2011).
+	\item Mel-Spectrograma: El Mel-spectrograma es una representación que muestra la intensidad de las frecuencias en función del tiempo. Es una herramienta visual poderosa para analizar la energía y detectar anomalías que pueden ser comunes en audios deepfake (Broughton \& Donovan, 2012).
+\end{itemize}
+
+
+
+\subsection{Técnicas de Análisis de la Señal de Audio}
+Estas técnicas permiten una mejor comprensión de la señal y facilitan la extracción de información relevante.
+
+\begin{itemize}
+	\item Autocorrelación para Extracción de Pitch: Esta técnica se utiliza para medir la frecuencia fundamental (pitch), lo cual es útil para identificar inconsistencias en el tono de voz (Boersma \& Weenink, 2019).
+	\item Análisis de Energía del Habla: Medir la energía o amplitud de la señal a lo largo del tiempo permite identificar variaciones inesperadas en la intensidad del habla. Los audios deepfake pueden mostrar fluctuaciones de energía poco naturales (Mitra et al., 2016).
+\end{itemize}
+
+\subsection{Modelos de Machine Learning y Deep Learning}
+Para la clasificación de audios como genuinos o falsos, los modelos de aprendizaje son el componente principal.
+
+\begin{itemize}
+	\item Redes Neuronales Convolucionales (CNN): Las CNN son útiles para analizar representaciones espectrales (como Mel-spectrogramas) y extraer patrones que diferencien entre audios genuinos y deepfake. Capturan características espaciales de las representaciones espectrales (Goodfellow et al., 2016).
+	\item Redes Neuronales Recurrentes (RNN) y LSTM (Long Short-Term Memory): Las RNN y variantes como LSTM se utilizan para capturar dependencias temporales en la señal de audio, lo cual es útil para modelar la dinámica del habla. Estas redes ayudan a identificar anomalías en la continuidad del flujo del habla (Hochreiter \& Schmidhuber, 2019).
+	\item Transformers: Los modelos basados en transformers también pueden aplicarse al análisis de audio para capturar patrones complejos de larga distancia, lo cual es útil en el caso de audios con contextos amplios (Vaswani et al., 2017).
+\end{itemize}
+
+
+\subsection{Algoritmos de Machine Learning Tradicionales}
+Pueden ser utilizados como métodos adicionales para la clasificación o en combinación con redes neuronales profundas.
+
+\begin{itemize}
+	\item SVM (Support Vector Machine): Las máquinas de vectores soporte son útiles para la clasificación binaria de audios utilizando las características acústicas extraídas. Se pueden emplear como un paso de preclasificación o como un método independiente (Cortes \& Vapnik, 2010).
+	\item Random Forest: Un algoritmo basado en árboles de decisión que permite combinar múltiples características del audio para realizar la clasificación. Este método es útil para manejar datos de alta dimensionalidad y puede proporcionar interpretaciones útiles sobre la importancia de cada característica (Breiman, 2011).
+\end{itemize}
+
+
+
+
+\subsection{Técnicas de Preprocesamiento}
+Antes de utilizar cualquier modelo de análisis, es necesario realizar ciertas etapas de preprocesamiento.
+
+\begin{itemize}
+	\item Normalización de la Señal de Audio: Consiste en estandarizar la amplitud del audio para asegurar que todas las señales tengan un nivel de volumen similar y que el modelo no se vea influenciado por diferencias en la intensidad (Wang \& Brown, 2018).
+	\item Segmentación del Audio: Dividir los audios en segmentos más pequeños puede facilitar la identificación de patrones. Esto es especialmente útil cuando los audios tienen duraciones largas, ya que facilita el entrenamiento y mejora la capacidad del modelo para detectar patrones en fragmentos más cortos (Huang et al., 2014).
 \end{itemize}
 
 

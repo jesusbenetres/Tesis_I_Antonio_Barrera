@@ -102,26 +102,53 @@
 \contentsline {subsubsection}{\numberline {2.3.4.6}Articulación y Transiciones entre Fonemas}{36}{subsubsection.2.3.4.6}%
 \contentsline {chapter}{\numberline {3}METODOLOGÍA DE LA INVESTIGACIÓN}{37}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Diseño de la investigación}{37}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Diseño no experimental}{37}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Tipo explicativo}{37}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Enfoque cuantitativo}{38}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.1}Enfoque de la investigación}{37}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Alcance de la investigación:}{37}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}EDiseño de la investigación:}{38}{subsection.3.1.3}%
 \contentsline {section}{\numberline {3.2}Población y muestra}{38}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Operacionalización de Variables}{38}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Instrumentos de medida}{39}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Técnicas de recolección de datos}{39}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Técnicas para el procesamiento y análisis de la información}{40}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Cronograma de actividades y presupuesto}{40}{section.3.7}%
-\contentsline {chapter}{\numberline {4}DESARROLLO DEL EXPERIMENTO}{41}{chapter.4}%
-\contentsline {section}{\numberline {4.1}X}{41}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Y}{41}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Z}{42}{section.4.3}%
-\contentsline {chapter}{\numberline {5}ANÁLISIS Y DISCUSIÓN DE RESULTADOS}{43}{chapter.5}%
-\contentsline {section}{\numberline {5.1}X}{43}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Y}{43}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Z}{44}{section.5.3}%
-\contentsline {chapter}{\numberline {6}CONCLUSIONES Y RECOMENDACIONES}{45}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Conclusiones}{45}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Recomendaciones}{45}{section.6.2}%
-\contentsline {chapter}{Anexos}{46}{section*.8}%
-\contentsline {chapter}{\numberline {A}Anexo I: Matriz de Consistencia}{47}{appendix.Alph1}%
-\contentsline {chapter}{\numberline {B}Anexo II: Resumen de Papers investigados}{49}{appendix.Alph2}%
+\contentsline {section}{\numberline {3.3}Operacionalización de Variables}{39}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Variable dependiente}{39}{subsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.1.1}Detección de audio deepfake}{39}{subsubsection.3.3.1.1}%
+\contentsline {subsection}{\numberline {3.3.2}Variables independientes}{40}{subsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.1}Patrones de voz}{40}{subsubsection.3.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.3.2.2}Frecuencia fundamental (pitch)}{40}{subsubsection.3.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.3.2.3}Duración y ritmo del habla}{40}{subsubsection.3.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.3.2.4}Tono de voz}{40}{subsubsection.3.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.3.2.5}Timbre de voz}{41}{subsubsection.3.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.3.2.6}Formantes}{41}{subsubsection.3.3.2.6}%
+\contentsline {subsubsection}{\numberline {3.3.2.7}Prosodia}{41}{subsubsection.3.3.2.7}%
+\contentsline {subsubsection}{\numberline {3.3.2.8}Articulación}{41}{subsubsection.3.3.2.8}%
+\contentsline {subsubsection}{\numberline {3.3.2.9}Transiciones entre fonemas}{41}{subsubsection.3.3.2.9}%
+\contentsline {subsubsection}{\numberline {3.3.2.10}Ruido de fondo}{42}{subsubsection.3.3.2.10}%
+\contentsline {section}{\numberline {3.4}Técnicas de recolección de datos}{42}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Grabaciones Directas de Voz}{42}{subsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.1.1}Participantes Voluntarios}{42}{subsubsection.3.4.1.1}%
+\contentsline {subsubsection}{\numberline {3.4.1.2}Variación de Condiciones de Grabación}{42}{subsubsection.3.4.1.2}%
+\contentsline {subsection}{\numberline {3.4.2}Recolección de Audios de Plataformas de Comunicación}{42}{subsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.2.1}Redes sociales y plataformas de mensajería}{42}{subsubsection.3.4.2.1}%
+\contentsline {subsubsection}{\numberline {3.4.2.2}Audios de YouTube, Podcasts u otras plataformas de creación de contenido}{43}{subsubsection.3.4.2.2}%
+\contentsline {subsection}{\numberline {3.4.3}Generación de Audio Deepfake}{43}{subsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.3.1}Generación con Modelos TTS y de Conversión de Voz}{43}{subsubsection.3.4.3.1}%
+\contentsline {subsubsection}{\numberline {3.4.3.2}Sistemas de Generación Basados en IA}{43}{subsubsection.3.4.3.2}%
+\contentsline {section}{\numberline {3.5}Técnicas para el procesamiento y análisis de la información}{43}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Extracción de Características Acústicas}{43}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Transformadas y Representaciones Espectrales}{45}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Técnicas de Análisis de la Señal de Audio}{45}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Modelos de Machine Learning y Deep Learning}{45}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Algoritmos de Machine Learning Tradicionales}{46}{subsection.3.5.5}%
+\contentsline {subsection}{\numberline {3.5.6}Técnicas de Preprocesamiento}{46}{subsection.3.5.6}%
+\contentsline {section}{\numberline {3.6}Cronograma de actividades y presupuesto}{47}{section.3.6}%
+\contentsline {chapter}{\numberline {4}DESARROLLO DEL EXPERIMENTO}{48}{chapter.4}%
+\contentsline {section}{\numberline {4.1}X}{48}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Y}{48}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Z}{49}{section.4.3}%
+\contentsline {chapter}{\numberline {5}ANÁLISIS Y DISCUSIÓN DE RESULTADOS}{50}{chapter.5}%
+\contentsline {section}{\numberline {5.1}X}{50}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Y}{50}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Z}{51}{section.5.3}%
+\contentsline {chapter}{\numberline {6}CONCLUSIONES Y RECOMENDACIONES}{52}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Conclusiones}{52}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Recomendaciones}{52}{section.6.2}%
+\contentsline {chapter}{Anexos}{53}{section*.7}%
+\contentsline {chapter}{\numberline {A}Anexo I: Matriz de Consistencia}{54}{appendix.Alph1}%
+\contentsline {chapter}{\numberline {B}Anexo II: Resumen de Papers investigados}{56}{appendix.Alph2}%
