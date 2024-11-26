@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.23)  25 NOV 2024 09:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.23)  25 NOV 2024 18:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1144,7 +1144,7 @@ nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
 or `spanish'. on input line 142.
-<images_repo/esanlogomin.png, id=615, 100.6962pt x 100.2144pt>
+<images_repo/esanlogomin.png, id=571, 100.6962pt x 100.2144pt>
 File: images_repo/esanlogomin.png Graphic file (type png)
 <use images_repo/esanlogomin.png>
 Package pdftex.def Info: images_repo/esanlogomin.png  used on input line 148.
@@ -1156,12 +1156,7 @@ n/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./images_repo/esa
 nlogomin.png>]
 \openout2 = `0/resumen.aux'.
 
- (0/resumen.tex
-Underfull \hbox (badness 10000) in paragraph at lines 9--11
-
- []
-
-)
+ (0/resumen.tex)
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -1172,12 +1167,7 @@ l.170 \include{0/resumen}
 ]
 \openout2 = `0/abstract.aux'.
 
- (0/abstract.tex
-Underfull \hbox (badness 10000) in paragraph at lines 9--11
-
- []
-
-) [2
+ (0/abstract.tex) [2
 
 
 
@@ -1191,12 +1181,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--11
 ]
 \openout2 = `0/agradecimientos.aux'.
 
- (0/agradecimientos.tex
-Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
- []
-
-) [4
+(0/agradecimientos.tex) [4
 
 
 
@@ -1241,65 +1227,51 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 
 ]
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 6 undefined on input li
-ne 26.
+LaTeX Warning: Citation 'bisogni2024acoustic' on page 6 undefined on input line
+ 26.
 
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 6 undefined on input li
-ne 32.
+LaTeX Warning: Citation 'oh2023' on page 6 undefined on input line 32.
 
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 6 undefined on input li
-ne 38.
+LaTeX Warning: Citation 'malinka2024comprehensive' on page 6 undefined on input
+ line 38.
 
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 6 undefined on input li
-ne 44.
+LaTeX Warning: Citation 'li2023' on page 6 undefined on input line 44.
 
 
 LaTeX Warning: Citation 'pr_dehghani2018copper' on page 6 undefined on input li
 ne 50.
 
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 6 undefined on input li
-ne 56.
+LaTeX Warning: Citation 'al_adwan2024cnn_rnn_pso' on page 6 undefined on input 
+line 56.
 
 
-Overfull \hbox (5.39128pt too wide) in paragraph at lines 56--56
+Overfull \hbox (16.37148pt too wide) in paragraph at lines 56--56
  \OT1/ptm/m/n/12 Par-ti-cle Swarm Op-ti-mi-za-tion (PSO) Al-go-rithm ([])[][] [
 ][]  
  []
 
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 6 undefined on input li
-ne 62.
+LaTeX Warning: Citation 'sunkari2024spectro_temporal' on page 6 undefined on in
+put line 62.
 
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 6 undefined on input li
-ne 68.
+LaTeX Warning: Citation 'saha2024greenai' on page 6 undefined on input line 68.
 
 
-Overfull \hbox (22.61223pt too wide) in paragraph at lines 68--68
- [][] [][][]\OT1/ptm/m/n/12 Exploring Green AI for Au-dio Deep-fa-ke De-tec-tio
-n ([])[][] [][]  
- []
+
+LaTeX Warning: Citation 'xie2024fakesound' on page 6 undefined on input line 74
+.
 
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 6 undefined on input li
-ne 74.
+LaTeX Warning: Citation 'astrid2024augmentation' on page 6 undefined on input l
+ine 80.
 
 
-Overfull \hbox (9.10304pt too wide) in paragraph at lines 74--74
- [][] [][][]\OT1/ptm/m/n/12 FakeSound: Deep-fa-ke Ge-ne-ral Au-dio De-tec-tion 
-([])[][] [][]  
- []
-
-
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 6 undefined on input li
-ne 80.
-
-
-Overfull \hbox (52.75656pt too wide) in paragraph at lines 80--80
+Overfull \hbox (54.74864pt too wide) in paragraph at lines 80--80
  [][] [][][]\OT1/ptm/m/n/12 Targeted Aug-men-ted Da-ta for Au-dio Deep-fa-ke De
 -tec-tion ([])[][] [][]  
  []
@@ -1409,8 +1381,8 @@ LaTeX Info: Redefining \% on input line 194.
 Cap\'{\i }tulo 2.
 (2/1_antecedentes/antecedentes.tex
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 19 undefined on input l
-ine 4.
+LaTeX Warning: Citation 'bisogni2024acoustic' on page 19 undefined on input lin
+e 4.
 
 
 Overfull \hbox (11.45587pt too wide) in paragraph at lines 4--4
@@ -1422,10 +1394,6 @@ Learning-Based
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\citep' on input line 4.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 4.
-
 [19
 
 
@@ -1433,16 +1401,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 ]
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 20 undefined on input l
-ine 22.
+LaTeX Warning: Citation 'oh2023' on page 20 undefined on input line 22.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\citep' on input line 22.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 22.
 
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
@@ -1451,8 +1414,8 @@ LaTeX Info: Redefining \. on input line 39.
 LaTeX Info: Redefining \% on input line 39.
  [21]
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 22 undefined on input l
-ine 40.
+LaTeX Warning: Citation 'malinka2024comprehensive' on page 22 undefined on inpu
+t line 40.
 
 
 Overfull \hbox (19.9232pt too wide) in paragraph at lines 40--40
@@ -1464,24 +1427,15 @@ Overfull \hbox (19.9232pt too wide) in paragraph at lines 40--40
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\citep' on input line 40.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 40.
-
 LaTeX Info: Redefining \. on input line 54.
 LaTeX Info: Redefining \% on input line 54.
 [22]
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 23 undefined on input l
-ine 58.
+LaTeX Warning: Citation 'li2023' on page 23 undefined on input line 58.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\citep' on input line 58.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 58.
 
 LaTeX Info: Redefining \. on input line 69.
 LaTeX Info: Redefining \% on input line 69.
@@ -1502,11 +1456,11 @@ LaTeX Info: Redefining \. on input line 88.
 LaTeX Info: Redefining \% on input line 88.
 [24]
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 25 undefined on input l
-ine 94.
+LaTeX Warning: Citation 'al_adwan2024cnn_rnn_pso' on page 25 undefined on input
+ line 94.
 
 
-Overfull \hbox (65.28214pt too wide) in paragraph at lines 94--94
+Overfull \hbox (78.45834pt too wide) in paragraph at lines 94--94
 \OT1/ptm/b/n/14.4 and Par-ti-cle Swarm Op-ti-mi-za-tion (PSO) Al-go-rithm ([]) 
 
  []
@@ -1519,12 +1473,20 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `subscript' on input line 94.
 
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 94.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 94.
+
 LaTeX Info: Redefining \. on input line 105.
 LaTeX Info: Redefining \% on input line 105.
 [25]
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 26 undefined on input l
-ine 112.
+LaTeX Warning: Citation 'sunkari2024spectro_temporal' on page 26 undefined on i
+nput line 112.
 
 
 Overfull \hbox (2.96031pt too wide) in paragraph at lines 112--112
@@ -1544,11 +1506,11 @@ LaTeX Info: Redefining \. on input line 123.
 LaTeX Info: Redefining \% on input line 123.
 [26]
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 27 undefined on input l
-ine 130.
+LaTeX Warning: Citation 'saha2024greenai' on page 27 undefined on input line 13
+0.
 
 
-Overfull \hbox (56.26788pt too wide) in paragraph at lines 130--130
+Overfull \hbox (11.19656pt too wide) in paragraph at lines 130--130
 []\OT1/ptm/b/n/14.4 Exploring Green AI for Au-dio Deep-fa-ke De-tec-tion ([]) 
  []
 
@@ -1556,19 +1518,15 @@ Overfull \hbox (56.26788pt too wide) in paragraph at lines 130--130
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\citep' on input line 130.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 130.
-
 LaTeX Info: Redefining \. on input line 141.
 LaTeX Info: Redefining \% on input line 141.
 [27]
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 28 undefined on input l
-ine 148.
+LaTeX Warning: Citation 'xie2024fakesound' on page 28 undefined on input line 1
+48.
 
 
-Overfull \hbox (40.53226pt too wide) in paragraph at lines 148--148
+Overfull \hbox (2.7903pt too wide) in paragraph at lines 148--148
 []\OT1/ptm/b/n/14.4 FakeSound: Deep-fa-ke Ge-ne-ral Au-dio De-tec-tion ([]) 
  []
 
@@ -1576,19 +1534,15 @@ Overfull \hbox (40.53226pt too wide) in paragraph at lines 148--148
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\citep' on input line 148.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 148.
-
 LaTeX Info: Redefining \. on input line 159.
 LaTeX Info: Redefining \% on input line 159.
 [28]
 
-LaTeX Warning: Citation 'pr_dehghani2018copper' on page 29 undefined on input l
-ine 166.
+LaTeX Warning: Citation 'astrid2024augmentation' on page 29 undefined on input 
+line 166.
 
 
-Overfull \hbox (102.30563pt too wide) in paragraph at lines 166--166
+Overfull \hbox (104.6961pt too wide) in paragraph at lines 166--166
 []\OT1/ptm/b/n/14.4 Targeted Aug-men-ted Da-ta for Au-dio Deep-fa-ke De-tec-tio
 n ([]) 
  []
@@ -1596,10 +1550,6 @@ n ([])
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\citep' on input line 166.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 166.
 
 LaTeX Info: Redefining \. on input line 177.
 LaTeX Info: Redefining \% on input line 177.
@@ -1673,40 +1623,24 @@ LaTeX Info: Redefining \% on input line 196.
  [47]
 \openout2 = `4/desarrollo.aux'.
 
- (4/desarrollo.tex
-Cap\'{\i }tulo 4.
+
+No file 4/desarrollo.tex.
+\openout2 = `5/resultados.aux'.
+
+No file 5/resultados.tex.
+\openout2 = `6/conclusion.aux'.
+
+No file 6/conclusion.tex.
 [48
 
 
 
 
-])
-LaTeX Info: Redefining \. on input line 197.
-LaTeX Info: Redefining \% on input line 197.
- [49]
-\openout2 = `5/resultados.aux'.
-
- (5/resultados.tex
-Cap\'{\i }tulo 5.
-) [50
 
 
 
 
-]
-LaTeX Info: Redefining \. on input line 198.
-LaTeX Info: Redefining \% on input line 198.
- [51]
-\openout2 = `6/conclusion.aux'.
 
- (6/conclusion.tex
-Cap\'{\i }tulo 6.
-) [52
-
-
-
-
-] [53
 
 
 
@@ -1763,13 +1697,13 @@ LaTeX Warning: Float too large for page by 196.69452pt on input line 29.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[54
+[49
 
 
 ]
 LaTeX Info: Redefining \. on input line 33.
 LaTeX Info: Redefining \% on input line 33.
- [55]
+ [50]
 Anexos B.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 41.
@@ -2082,12 +2016,12 @@ Underfull \hbox (badness 7362) in paragraph at lines 71--73
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [56
+) [51
 
 ]
 LaTeX Info: Redefining \. on input line 208.
 LaTeX Info: Redefining \% on input line 208.
- [57]
+ [52]
 
 LaTeX Warning: Empty bibliography on input line 213.
 
@@ -2107,7 +2041,7 @@ L3 programming layer <2024-01-04>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `tesis.out' has not changed.
-(rerunfilecheck)             Checksum: 11F82BF50B299110E375E39295008BA0;35704.
+(rerunfilecheck)             Checksum: 9E808D5B87FEA7A217CB41A65993BC39;34341.
 
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                tesis
@@ -2118,10 +2052,10 @@ Package logreq Info: Writing requests to 'tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29340 strings out of 474486
- 571061 string characters out of 5743755
+ 29295 strings out of 474486
+ 570256 string characters out of 5743755
  1954542 words of memory out of 5000000
- 50940 multiletter control sequences out of 15000+600000
+ 50919 multiletter control sequences out of 15000+600000
  601486 words of font info for 126 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,32n,84p,1383b,3497s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2129,9 +2063,9 @@ Here is how much of TeX's memory you used:
 cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/
 utmb8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/
 utmr8a.pfb>
-Output written on tesis.pdf (58 pages, 304308 bytes).
+Output written on tesis.pdf (53 pages, 284121 bytes).
 PDF statistics:
- 1029 PDF objects out of 1200 (max. 8388607)
- 217 named destinations out of 1000 (max. 500000)
- 1230 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 943 PDF objects out of 1000 (max. 8388607)
+ 199 named destinations out of 1000 (max. 500000)
+ 1142 words of extra memory for PDF output out of 10000 (max. 10000000)
 

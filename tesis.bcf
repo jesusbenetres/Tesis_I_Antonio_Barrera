@@ -3059,16 +3059,16 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">biblio/references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">pr_dehghani2018copper</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">bisogni2024acoustic</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">oh2023</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">malinka2024comprehensive</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">li2023</bcf:citekey>
     <bcf:citekey order="5" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">pr_dehghani2018copper</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">al_adwan2024cnn_rnn_pso</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">sunkari2024spectro_temporal</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">saha2024greenai</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">xie2024fakesound</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">astrid2024augmentation</bcf:citekey>
     <bcf:citekey order="11" intorder="1">heidari2023</bcf:citekey>
     <bcf:citekey order="12" intorder="1">rojas2023</bcf:citekey>
     <bcf:citekey order="13" intorder="1">heidari2023</bcf:citekey>
@@ -3081,16 +3081,16 @@
     <bcf:citekey order="20" intorder="1">heidari2023</bcf:citekey>
     <bcf:citekey order="21" intorder="1">ji2024</bcf:citekey>
     <bcf:citekey order="22" intorder="1">rojas2023</bcf:citekey>
-    <bcf:citekey order="23" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="24" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="25" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">pr_dehghani2018copper</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">bisogni2024acoustic</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">oh2023</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">malinka2024comprehensive</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">li2023</bcf:citekey>
     <bcf:citekey order="27" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="28" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="29" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="30" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="31" intorder="1">pr_dehghani2018copper</bcf:citekey>
-    <bcf:citekey order="32" intorder="1">pr_dehghani2018copper</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">al_adwan2024cnn_rnn_pso</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">sunkari2024spectro_temporal</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">saha2024greenai</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">xie2024fakesound</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">astrid2024augmentation</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
